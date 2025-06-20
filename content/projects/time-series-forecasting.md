@@ -13,96 +13,136 @@ math: true
 
 # Time Series Forecasting on San Francisco Airport Data
 
-**Tech Stack**: R, Time Series Analysis, SARIMA modeling, Statistical Forecasting, Data Visualization
 
-## Project Overview
+## Introduction
+Airports often rely on accurate demand forecasting to guide staffing, infrastructure planning, and operational strategy. This project analyzes monthly passenger data from San Francisco International Airport (SFO) spanning July 2005 through December 2019. The data was obtained from [DataSF](https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg) and includes counts of deplaned passengers.
 
-This comprehensive time series analysis project focuses on modeling and forecasting monthly passenger traffic at San Francisco International Airport from 2005 to 2019. The project demonstrates proficiency in classical time series methodologies, implementing SARIMA models to capture both seasonal and non-seasonal patterns in aviation data.
+Our goal is to build a robust seasonal forecasting model using the SARIMA framework, validate its assumptions through statistical diagnostics, and evaluate its forecast accuracy.
 
-**Data Source**: Monthly passenger traffic data spanning 180 observations from January 2005 through December 2019, providing a substantial dataset for robust statistical modeling.
+## Technologies Used
+{{< badge >}}R{{< /badge >}}
+{{< badge >}}SARIMA{{< /badge >}}
+{{< badge >}}Time Series Decomposition{{< /badge >}}
+{{< badge >}}Box-Cox Transformation{{< /badge >}}
+{{< badge >}}Forecasting{{< /badge >}}
 
-## Key Achievements
+## Data Preprocessing
+We begin by importing and aggregating the raw data into monthly totals, filtering for only "Deplaned" activity codes:
 
-### 1. **Data Preprocessing & Stationarity Analysis**
-- Implemented Box-Cox transformation ($\lambda = 0.1845$) to stabilize variance in passenger traffic data
-- Applied seasonal differencing (lag-12) and first-order differencing to achieve stationarity
-- Conducted comprehensive stationarity testing using Augmented Dickey-Fuller and KPSS tests
+```r
+library(dplyr)
+data <- read.csv("Air_Traffic_Passenger_Statistics.csv")
+data$Passenger.Count <- as.numeric(gsub(",", "", data$Passenger.Count))
 
-### 2. **Model Identification & Selection**
-- Utilized systematic ACF/PACF analysis to identify candidate SARIMA models
-- Applied information criteria (AIC, AICc, BIC) for optimal model selection
-- Evaluated multiple model specifications to balance goodness-of-fit with parsimony
+monthly_data <- data %>%
+  filter(Activity.Type.Code == "Deplaned") %>%
+  group_by(Activity.Period) %>%
+  summarize(Monthly_Passenger = sum(Passenger.Count))
 
-### 3. **SARIMA Model Implementation**
-Selected optimal model: **SARIMA(0,1,5)(0,1,1)[12]**
+monthly_ts <- ts(monthly_data$Monthly_Passenger, start=c(2005, 7), frequency=12)
+```
 
-The final fitted model equation:
-$$\nabla_1 \nabla_{12}\log(U_t) = (1 - 0.4999 B - 0.346 B^5)(1 - 0.9997 B^{12})Z_t$$
+A time series plot of the raw data reveals both a long-term upward trend and pronounced annual seasonality. Data after 2020 was excluded to avoid the confounding effects of the COVID-19 pandemic.
 
-This corresponds to SARIMA(0,1,5)(0,1,1)[12], where:
-- $\nabla_1$ represents first-order regular differencing
-- $\nabla_{12}$ represents seasonal differencing with lag 12
-- $B$ is the backshift operator
-- $Z_t$ represents white noise
+## Exploratory Analysis
+We assess key distributional properties before modeling:
 
-### 4. **Model Diagnostics & Validation**
-- **Ljung-Box Test**: Confirmed residual independence (no serial correlation)
-- **Normality Assessment**: Validated residual normality using Q-Q plots and statistical tests
-- **Heteroscedasticity Testing**: Verified constant residual variance over time
-- **Overfitting Analysis**: Ensured model parsimony through comparative analysis
+- **Histogram** of monthly passenger counts indicates positive skew.
+- **ACF plot** shows strong autocorrelation at lags 12, 24, ..., suggesting yearly seasonality.
+- **Trend**: Linear regression on the raw series confirms upward movement over time.
 
-### 5. **Forecasting Performance**
-- Generated 24-month ahead forecasts with confidence intervals
-- Evaluated forecast accuracy using hold-out validation
-- Achieved robust predictive performance for operational planning purposes
+```r
+hist(monthly_ts, col = "plum", main = "Monthly Passenger Count")
+acf(monthly_ts, lag.max = 48)
+```
 
-## Technical Implementation
+## Data Transformation
+Variance and non-stationarity necessitate transformation. First, we perform a Box-Cox transformation to identify a suitable variance-stabilizing transformation:
 
-### **Statistical Methodology**
-- **Box-Cox Transformation**: Stabilized variance using maximum likelihood estimation
-- **Seasonal Decomposition**: Isolated trend, seasonal, and irregular components
-- **Model Selection Criteria**: Minimized AICc for optimal complexity-accuracy balance
-- **Diagnostic Testing**: Comprehensive residual analysis for model adequacy
+```r
+library(MASS)
+boxcox_res <- boxcox(monthly_ts ~ seq_along(monthly_ts))
+lambda <- boxcox_res$x[which.max(boxcox_res$y)]  # ≈ 0 → log-transform
+```
 
-### **Model Specifications Evaluated**
-- SARIMA(0,1,1)(0,1,1)[12]
-- SARIMA(0,1,2)(0,1,1)[12]  
-- SARIMA(0,1,5)(0,1,1)[12] ← **Selected Model**
-- SARIMA(1,1,1)(0,1,1)[12]
+Log transformation is then applied, followed by seasonal differencing (lag 12) and first differencing (lag 1) to remove trend and seasonal components:
 
-### **Forecast Methodology**
-- Point forecasts with 80% and 95% prediction intervals
-- Recursive h-step ahead forecasting approach
-- Back-transformation to original scale for interpretability
+```r
+log_ts <- log(monthly_ts)
+diff_ts <- diff(diff(log_ts, lag=12), lag=1)
+```
 
-## Business Impact & Applications
+Decomposition confirms stationarity:
 
-### **Aviation Industry Insights**
-- Seasonal passenger patterns aligned with holiday travel expectations
-- Long-term growth trends consistent with Bay Area economic expansion
-- Model captures both regular and irregular seasonal variations
+```r
+dec <- decompose(log_ts)
+plot(dec)
+```
 
-### **Operational Applications**
-- **Capacity Planning**: Informed resource allocation for peak travel periods
-- **Revenue Forecasting**: Enhanced airline revenue management strategies  
-- **Infrastructure Investment**: Data-driven terminal expansion planning
-- **Staffing Optimization**: Predictive scheduling for airport operations
+## Model Selection
+We examine ACF and PACF of the transformed series to guide SARIMA parameter selection:
 
-### **Forecast Accuracy Metrics**
-- Mean Absolute Percentage Error (MAPE): 8.3%
-- Root Mean Square Error (RMSE): 0.142 (log scale)
-- Directional accuracy: 87.5% for month-over-month changes
+```r
+acf(diff_ts, lag.max = 60)
+pacf(diff_ts, lag.max = 60)
+```
 
-## Project Deliverables
+We iteratively fit multiple SARIMA models and compare their AICc scores. The best-performing model is:
 
-📊 **Comprehensive R Analysis**: Complete statistical implementation with reproducible code
-📈 **Forecasting Models**: 24-month passenger traffic predictions with uncertainty quantification  
-📋 **Model Documentation**: Detailed methodology and diagnostic validation
-📊 **Visualization Suite**: Time series plots, diagnostic charts, and forecast visualizations
+```r
+library(forecast)
+model <- Arima(log_ts, order = c(0, 1, 5), seasonal = c(0, 1, 1))
+summary(model)
+```
 
-This project demonstrates advanced proficiency in time series econometrics, statistical modeling, and business forecasting applications within the aviation analytics domain.
+This corresponds to SARIMA(0,1,5)(0,1,1)[12], with the model equation:
 
----
+\[\nabla_1\nabla_{12}\log(U_t) = (1 - 0.4999 B - 0.346 B^5)(1 - 0.9997 B^{12})Z_t\]
 
-**GitHub Repository**: [PSTAT-174-Time-Series](https://github.com/Jinxiang2000/PSTAT-174-Time-Series)  
-**Technologies**: R, Time Series Analysis, SARIMA, Statistical Forecasting, Data Visualization
+## Model Diagnostics
+We validate the residuals to ensure model adequacy:
+
+```r
+checkresiduals(model)
+Box.test(residuals(model), lag=12, type="Ljung-Box")
+```
+
+- Residuals approximate white noise (no autocorrelation)
+- Normal Q-Q plot confirms normality assumption
+- AICc = **-696.87**, the lowest among tested candidates
+
+## Forecasting
+With the validated model, we generate 12-month forecasts:
+
+```r
+forecast_vals <- forecast(model, h=12)
+plot(forecast_vals, main = "12-Month Forecast of SFO Passenger Counts")
+```
+
+We also transform forecasts back to the original scale:
+
+```r
+orig_forecast <- exp(forecast_vals$mean)
+```
+
+Confidence intervals capture expected variation and align well with withheld data, suggesting high predictive performance.
+
+## Results and Interpretation
+Key findings:
+- Forecast captures recurring seasonal dips and peaks (e.g., summer surges)
+- Trend aligned with long-term historical growth
+- Residual diagnostics and out-of-sample performance confirm robustness
+
+## Business Applications
+- **Airport Management**: Helps inform terminal staffing and gate planning
+- **Airline Ops**: Anticipate demand surges for scheduling
+- **Concessions & Retail**: Inventory decisions tied to forecasted volume
+
+## Future Enhancements
+- Add external regressors (e.g., GDP, fuel prices)
+- Incorporate real-time updates with online learning models
+- Explore hybrid models (e.g., SARIMA + Gradient Boosting)
+
+{{< button href="https://github.com/Jinxiang2000/PSTAT-174-Time-Series/blob/main/Jinxiang%20Ma%20-%20174%20final%20project.pdf" target="_blank" >}}View Full Report (PDF){{< /button >}}
+
+{{< button href="/projects" target="_self" >}}Back to Projects{{< /button >}}
