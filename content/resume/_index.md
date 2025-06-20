@@ -4,10 +4,10 @@ date: 2024-01-15
 draft: false
 description: "Professional resume of Jinxiang Ma - Data Scientist & Industrial Engineer"
 showDate: false
-showAuthor: true
+showAuthor: false
 showReadingTime: false
 showEdit: false
-layout: "simple"
+heroStyle: "background"
 ---
 
 **Versatile Data Science Professional and Industrial Engineer**  with hands-on experience across analytics, mathematical modeling, and data engineering. Skilled in building scalable pipelines and translating complex models into actionable insights for decision-making. Proficient in Python, SQL, Power BI, and cloud tools. Strong interest in applying data science and operations research to real-world challenges
@@ -86,7 +86,7 @@ GoGaucho team
 **Student Assistant** | *Santa Barbara, CA* | *Sep 2021 – Jun 2023*
 - Assisted library users in cleaning and preparing data for analysis, improving data accuracy and usability
 - Maintained statistics on the lab and identified IT issues, ensuring smooth operation and timely issue resolution
-- Answered student’s questions in the Data Science Carpentry workshop and develop workshop materials.
+- Answered student's questions in the Data Science Carpentry workshop and develop workshop materials.
 - Delivered programming projects on speech processing and web-scraping, enhancing research and data efficiency.
 
 ---

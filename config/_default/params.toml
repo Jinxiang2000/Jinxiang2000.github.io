@@ -26,7 +26,7 @@ defaultBackgroundImage = "intro_img.jpg" # used as default for background images
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [homepage]
-  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "intro_img.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
@@ -52,6 +52,7 @@ defaultBackgroundImage = "intro_img.jpg" # used as default for background images
 [list]
   showHero = true
   heroStyle = "background"
+  layoutBackgroundBlur = true # enable background blur for list pages
   showCards = true
   groupByYear = false
   cardView = true

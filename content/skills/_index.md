@@ -2,11 +2,12 @@
 title: "My Skills"
 date: 2024-01-15
 draft: false
-description: "Interactive skill tree showing Jinxiang's technical expertise"
+description: "Technical skills and expertise of Jinxiang Ma"
 showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
+heroStyle: "background"
 ---
 
 {{< lead >}}

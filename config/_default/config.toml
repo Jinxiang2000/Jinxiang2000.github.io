@@ -1,6 +1,6 @@
 baseURL = "https://jinxiang2000.github.io"
 languageCode = "en"
-title = "Jinxiang Ma - Portfolio"
+title = "Jinxiang Ma"
 theme = "blowfish"
 
 # Disable taxonomy pages for tags and categories by default

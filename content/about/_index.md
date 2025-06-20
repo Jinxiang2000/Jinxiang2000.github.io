@@ -7,6 +7,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
+heroStyle: "background"
 ---
 
 {{< lead >}}
