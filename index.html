@@ -7,6 +7,24 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<script src="https://kit.fontawesome.com/3695947c9c.js" crossorigin="anonymous"></script>
+		<!-- Stagewise Toolbar - Development Only -->
+		<script>
+			// Only load stagewise in development mode
+			if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' || window.location.hostname === '') {
+				// Load stagewise from CDN
+				const script = document.createElement('script');
+				script.src = 'https://unpkg.com/@stagewise/toolbar@latest/dist/index.umd.js';
+				script.onload = function() {
+					if (window.Stagewise) {
+						window.Stagewise.initToolbar({
+							plugins: [],
+							enabled: true
+						});
+					}
+				};
+				document.head.appendChild(script);
+			}
+		</script>
 	</head>
 	<body class="is-preload">
 
