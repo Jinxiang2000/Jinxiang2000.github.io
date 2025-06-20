@@ -97,7 +97,7 @@ summary(model)
 
 This corresponds to SARIMA(0,1,5)(0,1,1)[12], with the model equation:
 
-\[\nabla_1\nabla_{12}\log(U_t) = (1 - 0.4999 B - 0.346 B^5)(1 - 0.9997 B^{12})Z_t\]
+$$ \nabla_1\nabla_{12}\log(U_t) = (1 - 0.4999 B - 0.346 B^5)(1 - 0.9997 B^{12})Z_t $$
 
 ## Model Diagnostics
 We validate the residuals to ensure model adequacy:
