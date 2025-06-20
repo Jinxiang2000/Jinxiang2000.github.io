@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Jinxiang Ma - Portfolio"
+# logo = "img/logo.jpg"
+description = "Data-driven Industrial & Operations Engineering Graduate passionate about data science and innovation"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Jinxiang Ma"
+  image = "Jinxiang.jpg"
+  headline = "Data-driven Industrial & Operations Engineering Graduate"
+  bio = "I'm passionate about using data to uncover insights that drive strategic decisions and create meaningful impact. Currently pursuing Industrial and Operations Engineering at the University of Michigan, with a background in Statistics, Data Science, and Mathematics from UCSB."
+  links = [
+    { email = "mailto:majinxiang2000@gmail.com" },
+    { github = "https://github.com/Jinxiang2000" },
+    { linkedin = "https://www.linkedin.com/in/jinxiang-ma-806a621a8/" },
+    { kaggle = "https://www.kaggle.com/jinxiangma" },
+    { instagram = "https://www.instagram.com/j1nx14n6/" },
+  ] 

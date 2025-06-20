@@ -1,0 +1,76 @@
+---
+title: "Welcome to My Portfolio"
+date: 2024-01-15
+draft: false
+description: "Jinxiang Ma - Data Scientist & Industrial Engineer passionate about turning data into actionable insights"
+---
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/img/avatar.jpg" alt="Jinxiang Ma" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0 auto; display: block; border: 4px solid #3b82f6;">
+</div>
+
+{{< typeit 
+  tag=h1
+  speed=50
+  breakLines=false
+  loop=false
+>}}
+Hi, I'm Jinxiang Ma 👋
+{{< /typeit >}}
+
+{{< lead >}}
+**Versatile Data Science Professional** and **Industrial Engineer** with hands-on experience across analytics, mathematical modeling, and data engineering. Skilled in building scalable pipelines and translating complex models into actionable insights for decision-making.
+{{< /lead >}}
+
+## Contact & Connect
+
+📞 **Phone**: +1 (510) 345-8049  
+📍 **Location**: Sunnyvale, CA  
+📧 **Email**: majinxiang2000@gmail.com  
+🔗 **LinkedIn**: [jinxiang-ma-806a621a8](https://www.linkedin.com/in/jinxiang-ma-806a621a8/)
+
+
+
+## Education & Expertise
+
+🎓 **M.S. Industrial & Operations Engineering** - *University of Michigan, Ann Arbor* 
+🎓 **B.S. Statistics & Data Science + B.A. Mathematics** - *UC Santa Barbara* 
+
+Proficient in **Python**, **SQL**, **Power BI**, and **cloud tools**. Strong interest in applying data science and operations research to real-world challenges in AI, intelligent systems, and large-scale technology environments.
+
+## Technical Skills
+
+<div style="margin: 1.5rem 0;">
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">Python</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">R</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">SQL</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">Power BI</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">PowerApp</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">Azure</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">AWS</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">Django</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">Docker</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">Kubernetes</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">PyTorch</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">Scikit-learn</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">SharePoint</span>
+  <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">Gurobi</span>
+</div>
+
+## Current Focus
+
+🔬 **Research**: Large dataset sub-sampling and SuperLearner ensemble models  
+🏗️ **Engineering**: Automated pipelines and QA/QC script development  
+☁️ **Cloud**: Become more sophsitcated in AWS 
+📊 **Analytics**: SARIMA forecasting and hybrid flow shop scheduling  
+
+
+
+---
+
+*Passionate about applying data science and operations research to AI, intelligent systems, and large-scale technology environments. Let's connect and explore innovative solutions together!*
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin: 2rem 0;">
+  <a href="/about" style="background: #3b82f6; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 500; border: none; cursor: pointer; transition: background-color 0.2s;">Learn More About Me</a>
+  <a href="/Resume_Jinxiang_Ma.pdf" target="_blank" style="background: #6b7280; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 500; border: none; cursor: pointer; transition: background-color 0.2s;">Download Resume</a>
+</div> 

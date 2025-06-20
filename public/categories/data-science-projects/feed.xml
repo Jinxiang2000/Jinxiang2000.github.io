@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Projects on Jinxiang Ma - Portfolio</title>
+    <link>http://localhost:1313/categories/data-science-projects/</link>
+    <description>Recent content in Data Science Projects on Jinxiang Ma - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/data-science-projects/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Understanding Critical Factors of Minority and Transferred Students in U.S. Schools</title>
+      <link>http://localhost:1313/projects/minority-students-analysis/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/minority-students-analysis/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Performed Simple Linear Regression and Multiple Linear Regression on college enrollment data to determine factors affecting the number of college students.
+&lt;/div&gt;
+
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Project Image&#34; src=&#34;img/Project_1.jpg&#34;&gt;
+
+  
+    &lt;figcaption&gt;Understanding Critical Factors of Minority and Transferred Students&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Project Overview 
+    &lt;div id=&#34;project-overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#project-overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This project analyzes college enrollment data to understand the critical factors that influence minority and transferred student populations in U.S. schools. Through comprehensive statistical analysis, I identified key variables that impact student enrollment patterns and educational outcomes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Poverty Prediction with Census and Education Data</title>
+      <link>http://localhost:1313/projects/poverty-prediction/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/poverty-prediction/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Comprehensive machine learning analysis using PCA, hierarchical clustering, and multiple classification methods to predict poverty rates from census and education data.
+&lt;/div&gt;
+
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Project Image&#34; src=&#34;img/Project_2.jpg&#34;&gt;
+
+  
+    &lt;figcaption&gt;Poverty Prediction with Census and Education Data&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Project Overview 
+    &lt;div id=&#34;project-overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#project-overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This project leverages machine learning techniques to predict poverty rates using county-level census and education data. The analysis employs dimensionality reduction, clustering analysis, and various classification algorithms to understand the relationship between demographic factors and poverty levels.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Time Series Forecasting on SFO Air Passenger Statistics</title>
+      <link>http://localhost:1313/projects/time-series-forecasting/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/time-series-forecasting/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Developed and implemented a SARIMA model to forecast 12-month passenger traffic at San Francisco International Airport using historical data from 2005-2019.
+&lt;/div&gt;
+
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Project Image&#34; src=&#34;img/Project_8.jpg&#34;&gt;
+
+  
+    &lt;figcaption&gt;Time Series Forecasting on SFO Air Passenger Statistics&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Project Overview 
+    &lt;div id=&#34;project-overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#project-overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This comprehensive time series analysis project examines passenger traffic patterns at San Francisco International Airport (SFO) over a 15-year period. Using advanced statistical modeling techniques, I developed a Seasonal Autoregressive Integrated Moving Average (SARIMA) model to forecast future passenger volumes and identify underlying trends in air travel data.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

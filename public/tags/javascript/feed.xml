@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Jinxiang Ma - Portfolio</title>
+    <link>http://localhost:1313/tags/javascript/</link>
+    <description>Recent content in JavaScript on Jinxiang Ma - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/javascript/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multilingual Audio Transcription with Azure Speech to Text SDK</title>
+      <link>http://localhost:1313/projects/azure-speech-transcription/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/azure-speech-transcription/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Developed a sophisticated speech transcription system using Azure Speech to Text SDK with language detection and speaker diarization capabilities.
+&lt;/div&gt;
+
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Project Image&#34; src=&#34;img/Project_3.png&#34;&gt;
+
+  
+    &lt;figcaption&gt;Azure Speech to Text Transcription&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Project Overview 
+    &lt;div id=&#34;project-overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#project-overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This project implements a comprehensive audio transcription solution using Microsoft Azure Speech Services. The system handles multilingual audio files with advanced features including automatic language detection, speaker diarization, and custom model training to improve accuracy for domain-specific content.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

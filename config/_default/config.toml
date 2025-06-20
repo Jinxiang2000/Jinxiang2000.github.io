@@ -1,0 +1,64 @@
+baseURL = "https://jinxiang2000.github.io"
+languageCode = "en"
+title = "Jinxiang Ma - Portfolio"
+theme = "blowfish"
+
+# Disable taxonomy pages for tags and categories by default
+disableKinds = []
+
+# Set default content type
+defaultContentLanguage = "en"
+
+# Build configuration
+[build]
+  writeStats = true
+
+# Image processing configuration
+[imaging]
+  resampleFilter = "CatmullRom"
+  quality = 95
+  anchor = "Smart"
+
+# Minification configuration
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+# Output formats
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "feed"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+# Privacy configuration
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+  [privacy.instagram]
+    disabled = false
+    simple = true
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+# Site parameters
+[params]
+  version = "2.0" 

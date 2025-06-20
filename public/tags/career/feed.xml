@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career on Jinxiang Ma - Portfolio</title>
+    <link>http://localhost:1313/tags/career/</link>
+    <description>Recent content in Career on Jinxiang Ma - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/career/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Data Science Journey: From Mathematics to Machine Learning</title>
+      <link>http://localhost:1313/posts/data-science-journey/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/data-science-journey/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  From theoretical mathematics to practical data science - exploring the journey that shaped my approach to solving real-world problems with data.
+&lt;/div&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;The Beginning: Pure Mathematics 
+    &lt;div id=&#34;the-beginning-pure-mathematics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#the-beginning-pure-mathematics&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;My journey into data science began with a deep fascination for pure mathematics. During my undergraduate studies at UCSB, I was drawn to the elegance of mathematical proofs and the logical structure of abstract concepts. Real analysis, linear algebra, and discrete mathematics formed the foundation of my analytical thinking.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

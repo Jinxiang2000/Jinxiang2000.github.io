@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Census Data on Jinxiang Ma - Portfolio</title>
+    <link>http://localhost:1313/tags/census-data/</link>
+    <description>Recent content in Census Data on Jinxiang Ma - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/census-data/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Poverty Prediction using Census Data and Machine Learning</title>
+      <link>http://localhost:1313/projects/poverty-prediction/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/poverty-prediction/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Developed sophisticated machine learning models to predict poverty levels across U.S. counties using demographic and socioeconomic census data, achieving 87% prediction accuracy through advanced statistical techniques.
+&lt;/div&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Project Overview 
+    &lt;div id=&#34;project-overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#project-overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This comprehensive machine learning project leverages U.S. Census data to build predictive models for identifying counties with high poverty rates. Through the application of dimensionality reduction techniques and unsupervised learning algorithms, we developed a robust framework for socioeconomic analysis and policy planning.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

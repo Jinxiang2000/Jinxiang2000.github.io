@@ -1,0 +1,116 @@
+{
+    "name": "Jinxiang Ma",
+    "children": [
+     {
+      "name": "Data Science",
+      "children": [
+       {
+        "name": "Data Cleaning & Manipulation","size": 3938},
+       {
+        "name": "Data Visualization","size": 3812},
+       {
+        "name": "Data Science Concept & Analysis","size": 3812},
+       {
+        "name": "Bayesian Data Analysis","size": 3812},
+       {
+        "name": "Natural Language Processing","size": 3812},
+
+       {"name": "Machine Learning", "size": 3812}
+        ]
+       },
+       {
+        "name": "Mathematics",
+        "children": [
+         {
+          "name": "Linear Algebra","size": 3938},
+         {
+          "name": "Discrete Mathematics","size": 3812},
+  
+         {"name": "Vector Calculus", "size": 3812},
+
+         {"name": "Differential Equation", "size": 3812},
+
+         {"name": "Real Analysis", "size": 3812},
+
+         {"name": "Numerical Analysis", "size": 3812},
+
+         {"name": "Operations Research", "size": 3812}
+
+          ]
+         },
+         {
+            "name": "Applied Statistics",
+            "children": [
+             {
+              "name": "Regression Analysis","size": 3938},
+             {
+              "name": "Probability Theory","size": 3812},
+      
+             {"name": "Time Series", "size": 7074},
+
+             {"name": "Nonparametric Statistics","size": 3812},
+
+             {"name": "Financial Market Risk and Modeling","size": 3812},
+
+             {"name": "Experimental Design in Statistics","size": 3812}
+
+            ]
+        },
+
+        {
+            "name": "Programming Language",
+            "children": [
+             {
+              "name": "R","size": 3938},
+             {
+              "name": "SAS","size": 3812},
+      
+             {"name": "C++", "size": 7074},
+
+             {"name": "SQL","size": 3812},
+
+             {"name": "JavaScript","size": 3812},
+
+             {"name": "HTML","size": 3812},
+
+             {"name": "Stan", "size": 3812},
+
+             {"name": "VBA","size": 3812},
+
+             {"name": "Latex","size": 3812}
+
+            ]
+        },
+
+        {
+            "name": "Computer Software",
+            "children": [
+             {
+              "name": "Jupyter Notebook","size": 3938},
+             {
+              "name": "Rstudio","size": 3812},
+      
+             {"name": "MySQL", "size": 3812},
+
+             {"name": "Nvivo","size": 3812},
+
+             {"name": "Lingo","size": 3812},
+
+             {"name": "MS Office","size": 3812},
+
+             {"name": "Premavera Unifier", "size": 3812},
+
+             {"name": "Google BigQuery","size": 3812},
+
+             {"name": "Overleaf","size": 3812},
+
+             {"name": "Microsoft Azure","size": 3812}
+            ]
+        }
+
+
+
+      ]
+     }
+    
+   
