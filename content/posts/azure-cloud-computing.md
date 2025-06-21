@@ -110,13 +110,6 @@ Having worked with multiple cloud platforms, here's how Azure stands out:
 - **Cost complexity**: Pricing models can be confusing
 - **Service naming**: Some service names are not intuitive
 
-## Future Explorations
-
-### Areas I'm Excited to Explore
-1. **Azure Machine Learning**: For end-to-end ML lifecycle management
-2. **Azure Synapse Analytics**: For big data processing
-3. **Azure IoT Hub**: For real-time data streaming
-4. **Azure DevOps**: For ML pipeline automation
 
 ### Upcoming Projects
 - Building a real-time analytics dashboard using Azure Stream Analytics
@@ -147,7 +140,6 @@ Whether you're a beginner looking to learn cloud computing or an experienced dev
 
 ---
 
-*What's your experience with cloud platforms? I'd love to hear about your projects and lessons learned in the comments below.*
 
 {{< button href="/projects/azure-speech-transcription" target="_self" >}}
 View Azure Project Details
