@@ -15,7 +15,7 @@ Cross-disciplinary data and operations engineer passionate about turning complex
 {{< /lead >}}
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/img/Jinxiang.jpg" alt="A selfie of Jinxiang" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; border: 4px solid #3b82f6;">
+  <img src="/img/Jinxiang.jpg" alt="A selfie of Jinxiang" style="width: 400px; height: 400px; border-radius: 50%; object-fit: cover; border: 4px solid #3b82f6;">
 </div>
 
 Hello! I’m Jinxiang Ma — a recent graduate of the University of Michigan, where I earned my Master’s in Industrial and Operations Engineering. I also hold dual bachelor’s degrees in Mathematics and Statistics & Data Science from UC Santa Barbara. My academic and professional path lies at the intersection of **data science**, **data engineering**, **optimization**, and **decision science**, and I’m passionate about building robust data systems that support real-world decisions in infrastructure, healthcare, manufacturing, and beyond.
