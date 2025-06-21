@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>“Named Entity Recognition” on Jinxiang Ma</title>
+    <link>http://localhost:1313/tags/named-entity-recognition/</link>
+    <description>Recent content in “Named Entity Recognition” on Jinxiang Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/named-entity-recognition/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>“Named Entity Recognition with Transformers in PyTorch”</title>
+      <link>http://localhost:1313/projects/ner_transformer/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ner_transformer/</guid>
+      <description>&lt;p&gt;Introduction&lt;/p&gt;
+&lt;p&gt;Named Entity Recognition (NER) is a fundamental task in Natural Language Processing (NLP) that involves identifying and classifying entities such as persons, organizations, locations, and miscellaneous names within raw text. In this project, we implemented a Transformer-based NER system using PyTorch and HuggingFace’s Transformers library, focusing on fine-tuning the DistilBERT model on the widely used CoNLL-2003 dataset.&lt;/p&gt;
+&lt;p&gt;Our objectives were threefold:
+1.	Build a high-performing NER model that correctly captures entity spans.
+2.	Explore how subword tokenization affects sequence labeling tasks.
+3.	Learn the practical aspects of PyTorch-based model training and evaluation in an NER setting.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

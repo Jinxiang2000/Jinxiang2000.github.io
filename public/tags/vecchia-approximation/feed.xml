@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vecchia Approximation on Jinxiang Ma</title>
+    <link>http://localhost:1313/tags/vecchia-approximation/</link>
+    <description>Recent content in Vecchia Approximation on Jinxiang Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vecchia-approximation/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bayesian Spatial Modeling of Birth Weight in Bangladesh</title>
+      <link>http://localhost:1313/projects/spatial_analysis/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/spatial_analysis/</guid>
+      <description>&lt;hr&gt;
+
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Low birth weight is a major public health concern in developing countries. In this project, we aim to &lt;strong&gt;predict child birth weight across Bangladesh&lt;/strong&gt; using spatial statistical models informed by &lt;strong&gt;maternal and household-level covariates&lt;/strong&gt;. Leveraging GPS-tagged survey data, we apply a suite of &lt;strong&gt;Bayesian spatial models&lt;/strong&gt; to capture fine-scale spatial variability while addressing the computational challenges posed by large datasets.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

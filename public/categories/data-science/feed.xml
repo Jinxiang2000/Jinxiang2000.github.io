@@ -63,27 +63,21 @@
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/time-series-forecasting/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;Time Series Forecasting on San Francisco Airport Data 
-    &lt;div id=&#34;time-series-forecasting-on-san-francisco-airport-data&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#time-series-forecasting-on-san-francisco-airport-data&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: R, Time Series Analysis, SARIMA modeling, Statistical Forecasting, Data Visualization&lt;/p&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;Project Overview 
-    &lt;div id=&#34;project-overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#project-overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;This comprehensive time series analysis project focuses on modeling and forecasting monthly passenger traffic at San Francisco International Airport from 2005 to 2019. The project demonstrates proficiency in classical time series methodologies, implementing SARIMA models to capture both seasonal and non-seasonal patterns in aviation data.&lt;/p&gt;</description>
+&lt;p&gt;Airports often rely on accurate demand forecasting to guide staffing, infrastructure planning, and operational strategy. This project analyzes monthly passenger data from San Francisco International Airport (SFO) spanning July 2005 through December 2019. The data was obtained from &lt;a
+  href=&#34;https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg&#34;
+    target=&#34;_blank&#34;
+  &gt;DataSF&lt;/a&gt;
+ and includes counts of deplaned passengers.&lt;/p&gt;
+&lt;p&gt;Our goal is to build a robust seasonal forecasting model using the SARIMA framework, validate its assumptions through statistical diagnostics, and evaluate its forecast accuracy.&lt;/p&gt;</description>
       
     </item>
     
