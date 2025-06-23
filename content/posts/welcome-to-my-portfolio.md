@@ -8,7 +8,7 @@ categories: ["Blog"]
 ---
 
 {{< lead >}}
-Welcome to my digital portfolio! This site showcases my journey as a data scientist and industrial engineer, featuring projects that demonstrate my passion for turning data into actionable insights.
+Welcome to my digital portfolio! 
 {{< /lead >}}
 
 ## About This Portfolio
@@ -17,32 +17,17 @@ This portfolio represents my evolution as a data scientist and industrial engine
 
 ## What You'll Find Here
 
-### 🎯 **Projects**
+### **Projects**
 Explore my collection of data science, machine learning, and engineering projects. Each project demonstrates different aspects of my technical expertise, from statistical analysis to cloud computing.
 
-### 🛠️ **Skills**
+### **Skills**
 Discover my technical competencies through an interactive skill tree that maps my expertise across various domains including data science, mathematics, programming, and engineering tools.
 
-### 📖 **About**
+###  **About**
 Learn more about my background, education, and professional journey from UCSB to the University of Michigan.
 
-### 📝 **Blog**
-Follow my thoughts on data science trends, project learnings, and technical insights.
-
-## My Data Science Philosophy
-
-I believe in the power of data to drive meaningful change. My approach combines:
-
-- **Statistical Rigor**: Ensuring analyses are methodologically sound
-- **Practical Impact**: Focusing on solutions that create real-world value
-- **Clear Communication**: Making complex insights accessible to stakeholders
-- **Continuous Learning**: Staying current with evolving technologies and methods
-
-## Featured Technologies
-
-Throughout my projects, I've worked extensively with:
-
-{{< badge >}}Python{{< /badge >}} {{< badge >}}R{{< /badge >}} {{< badge >}}SQL{{< /badge >}} {{< badge >}}Azure{{< /badge >}} {{< badge >}}Machine Learning{{< /badge >}} {{< badge >}}Statistical Analysis{{< /badge >}}
+### **Blog**
+Follow my thoughts on market trends, project learnings, and technical insights.
 
 ## Get in Touch
 

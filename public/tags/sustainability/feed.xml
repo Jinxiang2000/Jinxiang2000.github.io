@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainability on Jinxiang Ma</title>
+    <link>http://localhost:1313/tags/sustainability/</link>
+    <description>Recent content in Sustainability on Jinxiang Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sustainability/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Optimizing Wind Power Plant Locations in Iran Using DEA</title>
+      <link>http://localhost:1313/projects/dea_project/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/dea_project/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;As the global energy landscape shifts towards sustainability, nations like Iran face both opportunities and challenges in deploying clean energy infrastructure. With its geographic diversity and significant untapped wind resources, Iran holds promise for large-scale wind energy deployment. However, selecting optimal sites for wind power plants requires more than just measuring wind speed—it demands a multi-dimensional evaluation.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

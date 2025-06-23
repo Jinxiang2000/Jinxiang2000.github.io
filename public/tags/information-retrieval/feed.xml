@@ -10,22 +10,22 @@
     <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/information-retrieval/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Building a Smart Python Code Assistant: How I Combined RAG with Semantic Search</title>
+      <title>RAG-Powered Code Search: A Course Project on Semantic Code Retrieval</title>
       <link>http://localhost:1313/projects/rag_code_chatbot/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/rag_code_chatbot/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;The Problem: Why Code Search Still Sucks 
-    &lt;div id=&#34;the-problem-why-code-search-still-sucks&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Project Overview 
+    &lt;div id=&#34;project-overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#the-problem-why-code-search-still-sucks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#project-overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Picture this: You&amp;rsquo;re working on a computer vision project and need to implement face recognition. You know you want to use KNN, but you&amp;rsquo;re not sure about the exact implementation. So you do what every developer does—you Google it.&lt;/p&gt;
-&lt;p&gt;What do you get? Either overly generic tutorials that don&amp;rsquo;t fit your use case, or StackOverflow answers buried in irrelevant discussions. Sound familiar?&lt;/p&gt;</description>
+&lt;p&gt;As part of my Information Retrieval course, I tackled a fundamental challenge in software development: &lt;strong&gt;how can we make code search more intelligent and context-aware?&lt;/strong&gt; Traditional keyword-based search often fails to capture the semantic intent behind developer queries, leading to frustrating experiences when trying to find relevant code examples.&lt;/p&gt;
+&lt;p&gt;This project explores the application of &lt;strong&gt;Retrieval-Augmented Generation (RAG)&lt;/strong&gt; to code search, combining the power of semantic embeddings with large language models to create a more intuitive code discovery experience.&lt;/p&gt;</description>
       
     </item>
     

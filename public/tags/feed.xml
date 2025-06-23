@@ -80,11 +80,101 @@
     </item>
     
     <item>
+      <title>CodeSearchNet</title>
+      <link>http://localhost:1313/tags/codesearchnet/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/codesearchnet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Course Project</title>
+      <link>http://localhost:1313/tags/course-project/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/course-project/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DEA</title>
+      <link>http://localhost:1313/tags/dea/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/dea/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Energy Planning</title>
+      <link>http://localhost:1313/tags/energy-planning/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/energy-planning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FAISS</title>
+      <link>http://localhost:1313/tags/faiss/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/faiss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FastAPI</title>
+      <link>http://localhost:1313/tags/fastapi/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/fastapi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Gaussian Processes</title>
       <link>http://localhost:1313/tags/gaussian-processes/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/gaussian-processes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GPT</title>
+      <link>http://localhost:1313/tags/gpt/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gpt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Information Retrieval</title>
+      <link>http://localhost:1313/tags/information-retrieval/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/information-retrieval/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Iran</title>
+      <link>http://localhost:1313/tags/iran/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/iran/</guid>
       <description></description>
       
     </item>
@@ -160,6 +250,36 @@
     </item>
     
     <item>
+      <title>RAG</title>
+      <link>http://localhost:1313/tags/rag/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rag/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Renewable Energy</title>
+      <link>http://localhost:1313/tags/renewable-energy/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/renewable-energy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Semantic Search</title>
+      <link>http://localhost:1313/tags/semantic-search/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/semantic-search/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Spatial Statistics</title>
       <link>http://localhost:1313/tags/spatial-statistics/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
@@ -170,11 +290,121 @@
     </item>
     
     <item>
+      <title>Streamlit</title>
+      <link>http://localhost:1313/tags/streamlit/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/streamlit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>http://localhost:1313/tags/sustainability/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sustainability/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Vecchia Approximation</title>
       <link>http://localhost:1313/tags/vecchia-approximation/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/vecchia-approximation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wind Power</title>
+      <link>http://localhost:1313/tags/wind-power/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/wind-power/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>http://localhost:1313/tags/bootstrap/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/bootstrap/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CRUD</title>
+      <link>http://localhost:1313/tags/crud/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/crud/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>http://localhost:1313/tags/django/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/django/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ETL</title>
+      <link>http://localhost:1313/tags/etl/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/etl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pentaho Kettle</title>
+      <link>http://localhost:1313/tags/pentaho-kettle/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pentaho-kettle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>http://localhost:1313/tags/postgresql/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/postgresql/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project Management</title>
+      <link>http://localhost:1313/tags/project-management/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/project-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/web-development/</guid>
       <description></description>
       
     </item>

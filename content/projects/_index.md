@@ -2,7 +2,7 @@
 title: "My Projects"
 date: 2024-01-15
 draft: false
-description: "A collection of my data science and engineering projects"
+description: "A comprehensive portfolio showcasing my expertise at the intersection of data science, data engineering, optimization, and decision science"
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -11,49 +11,60 @@ heroStyle: "background"
 ---
 
 {{< lead >}}
-A collection of my previous projects showcasing my expertise in data science, statistical analysis, machine learning, and engineering solutions.
+Explore my academic and professional journey through projects that demonstrate expertise at the intersection of **data science**, **data engineering**, **optimization**, and **decision science**. Each project represents a unique blend of mathematical rigor, computational innovation, and real-world impact.
 {{< /lead >}}
 
-## Featured Projects
+<div style="text-align: center; margin: 40px 0; padding: 24px; background-color: #f8fafc; border-radius: 12px; border-left: 4px solid：rgb(128, 174, 248);">
+  <p style="font-style: italic; font-size: 18px; color:rgb(46, 57, 73); margin: 0; line-height: 1.6;">
+    "At the intersection of mathematics, computation, and real-world impact, I develop solutions that transform data into actionable insights and strategic advantage."
+  </p>
+</div> 
 
-Below you'll find detailed information about my key projects, each demonstrating different aspects of my technical skills and problem-solving approach.
+---
 
-### Data Science & Analysis Projects
+## 🔬 Data Analytics & Statistical Modeling
 
-{{< article link="/projects/minority-students-analysis/" >}}
+Projects that leverage sophisticated statistical methods, machine learning, and spatial analysis to extract insights from complex datasets and model real-world phenomena.
+
+{{< article link="/projects/spatial_analysis/" >}}
 
 {{< article link="/projects/poverty-prediction/" >}}
 
 {{< article link="/projects/time-series-forecasting/" >}}
 
-### Engineering & Technology Projects
+{{< article link="/projects/minority-students-analysis/" >}}
+
+{{< article link="/projects/ner_transformer/" >}}
+
+---
+
+## ⚙️ Data Engineering & Intelligent Systems
+
+Full-stack solutions that combine data pipeline development, system architecture, and intelligent automation to solve complex engineering challenges.
+
+{{< article link="/projects/rag_code_chatbot/" >}}
+
+{{< article link="/projects/django-project-management/" >}}
 
 {{< article link="/projects/azure-speech-transcription/" >}}
-
-{{< article link="/projects/market-expansion/" >}}
-
-### Web Scraping & Automation
 
 {{< article link="/projects/dianping-scraping/" >}}
 
 ---
 
-## Technologies Used Across Projects
+## 🎯 Optimization & Decision Science
 
-- **Data Science**: Python (Pandas, NumPy, Scikit-learn), R (ggplot2, dplyr)
-- **Machine Learning**: Classification, Regression, Clustering, Time Series
-- **Statistical Analysis**: Hypothesis Testing, PCA, Hierarchical Clustering
-- **Visualization**: Altair, Seaborn, ggplot2, D3.js
-- **Cloud Services**: Microsoft Azure, Google BigQuery
-- **Databases**: MySQL, PostgreSQL
-- **Development**: Jupyter Notebook, RStudio, Git
+Mathematical optimization and decision-making frameworks that apply operations research methods to real-world resource allocation and strategic planning problems.
 
-{{< button href="/about" target="_self" >}}
-Learn More About Me
-{{< /button >}}
+{{< article link="/projects/DEA_project/" >}}
 
-{{< button href="/skills" target="_self" >}}
-View My Skills
-{{< /button >}} 
+{{< article link="/projects/quasi-netwon/" >}}
+
+{{< article link="/projects/market-expansion/" >}}
 
 ---
+
+
+
+---
+

@@ -83,12 +83,6 @@ Proficient in **Python**, **SQL**, **Power BI**, and **cloud tools**. Strong int
   <span style="display: inline-block; background: #3b82f6; color: #fff; padding: 4px 12px; border-radius: 16px; margin: 4px; font-size: .875rem;">Gurobi</span>
 </div>
 
-## Current Focus
-
-🔬 **Research**: Large dataset sub-sampling and SuperLearner ensemble models  
-🏗️ **Engineering**: Automated pipelines and QA/QC script development  
-☁️ **Cloud**: Become more sophsitcated in AWS 
-📊 **Analytics**: SARIMA forecasting and hybrid flow shop scheduling  
 
 
 

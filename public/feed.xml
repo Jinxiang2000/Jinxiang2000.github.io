@@ -71,6 +71,25 @@
     </item>
     
     <item>
+      <title>Optimizing Wind Power Plant Locations in Iran Using DEA</title>
+      <link>http://localhost:1313/projects/dea_project/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/dea_project/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;As the global energy landscape shifts towards sustainability, nations like Iran face both opportunities and challenges in deploying clean energy infrastructure. With its geographic diversity and significant untapped wind resources, Iran holds promise for large-scale wind energy deployment. However, selecting optimal sites for wind power plants requires more than just measuring wind speed—it demands a multi-dimensional evaluation.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>RAG-Powered Code Search: A Course Project on Semantic Code Retrieval</title>
       <link>http://localhost:1313/projects/rag_code_chatbot/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
@@ -112,13 +131,32 @@
     </item>
     
     <item>
+      <title>Optimizing Hospital Pharmacy Operations: A Data-Driven Approach to Sterile Compounding</title>
+      <link>http://localhost:1313/posts/michigan-medicine/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/michigan-medicine/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;The Challenge: When Precision Meets Pressure in Hospital Pharmacies 
+    &lt;div id=&#34;the-challenge-when-precision-meets-pressure-in-hospital-pharmacies&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#the-challenge-when-precision-meets-pressure-in-hospital-pharmacies&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Picture this: It&amp;rsquo;s 7 AM in a sterile compounding room at Michigan Medicine. Pharmacy technicians are preparing life-saving chemotherapy medications, where even the smallest dosing error could have devastating consequences. Every second counts, but so does every milligram. This is where I found myself as a Process Improvement Consultant, tasked with solving a puzzle that had stumped the healthcare industry for years.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Welcome to My Portfolio</title>
       <link>http://localhost:1313/posts/welcome-to-my-portfolio/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/welcome-to-my-portfolio/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  Welcome to my digital portfolio! This site showcases my journey as a data scientist and industrial engineer, featuring projects that demonstrate my passion for turning data into actionable insights.
+  Welcome to my digital portfolio!
 &lt;/div&gt;
 
 
@@ -131,31 +169,52 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;This portfolio represents my evolution as a data scientist and industrial engineer. Built with Hugo and the beautiful Blowfish theme, it serves as a comprehensive showcase of my technical skills, project experiences, and professional growth.&lt;/p&gt;</description>
+&lt;p&gt;This portfolio represents my evolution as a data scientist and industrial engineer. Built with Hugo and the beautiful Blowfish theme, it serves as a comprehensive showcase of my technical skills, project experiences, and professional growth.&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;What You&amp;rsquo;ll Find Here 
+    &lt;div id=&#34;what-youll-find-here&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#what-youll-find-here&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Projects&lt;/strong&gt; 
+    &lt;div id=&#34;projects&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#projects&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Explore my collection of data science, machine learning, and engineering projects. Each project demonstrates different aspects of my technical expertise, from statistical analysis to cloud computing.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>My Data Science Journey: From Mathematics to Machine Learning</title>
+      <title>Still Learning: A New Grad&#39;s Journey from Math to Data Science</title>
       <link>http://localhost:1313/posts/data-science-journey/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/data-science-journey/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  From theoretical mathematics to practical data science - exploring the journey that shaped my approach to solving real-world problems with data.
+  Just documenting my learning journey so far—from math major to data science projects. Still figuring out a lot, but thought I&amp;rsquo;d share what I&amp;rsquo;ve learned and what I&amp;rsquo;m hungry to learn next.
 &lt;/div&gt;
 
 
-&lt;h2 class=&#34;relative group&#34;&gt;The Beginning: Pure Mathematics 
-    &lt;div id=&#34;the-beginning-pure-mathematics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;Starting with Math (And Questioning Everything) 
+    &lt;div id=&#34;starting-with-math-and-questioning-everything&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#the-beginning-pure-mathematics&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#starting-with-math-and-questioning-everything&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;My journey into data science began with a deep fascination for pure mathematics. During my undergraduate studies at UCSB, I was drawn to the elegance of mathematical proofs and the logical structure of abstract concepts. Real analysis, linear algebra, and discrete mathematics formed the foundation of my analytical thinking.&lt;/p&gt;</description>
+&lt;p&gt;I was a math major at UCSB, spending way too many hours on proofs and abstract concepts that felt completely disconnected from reality. Honestly, I kept wondering &amp;ldquo;when will I ever use this?&amp;rdquo; Real analysis seemed like pure torture, and I couldn&amp;rsquo;t see how any of it would help me get a job.&lt;/p&gt;</description>
       
     </item>
     
