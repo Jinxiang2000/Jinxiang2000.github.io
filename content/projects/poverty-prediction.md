@@ -1,6 +1,6 @@
 ---
 title: "Poverty Prediction using Census Data and Machine Learning"
-date: 2022-11-20
+date: 2023-11-20
 draft: false
 description: "Advanced machine learning analysis using Principal Component Analysis and Hierarchical Clustering to predict poverty levels across US counties with 87% accuracy"
 tags: ["Machine Learning", "R", "PCA", "Clustering", "Predictive Modeling", "Census Data"]
