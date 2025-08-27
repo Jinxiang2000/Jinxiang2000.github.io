@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business Analytics on Jinxiang Ma</title>
-    <link>http://localhost:1313/tags/business-analytics/</link>
+    <link>http://localhost:52017/tags/business-analytics/</link>
     <description>Recent content in Business Analytics on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/business-analytics/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/tags/business-analytics/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dianping Business Data Scraping and Analysis</title>
-      <link>http://localhost:1313/projects/dianping-scraping/</link>
+      <link>http://localhost:52017/projects/dianping-scraping/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/dianping-scraping/</guid>
+      <guid>http://localhost:52017/projects/dianping-scraping/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Large-scale web scraping project extracting children&amp;rsquo;s library information from DianPing.com across over 2000 Chinese cities using advanced scraping techniques.
 &lt;/div&gt;

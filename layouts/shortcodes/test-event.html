@@ -1,0 +1,6 @@
+<div style="border: 1px solid #ccc; padding: 1rem; margin: 1rem 0; border-radius: 8px;">
+  <h3>{{ .Get "title" }}</h3>
+  <p><strong>{{ .Get "company" }}</strong> | {{ .Get "location" }}</p>
+  <p><em>{{ .Get "from" }}{{ if .Get "to" }} - {{ .Get "to" }}{{ else }} - Present{{ end }}</em></p>
+  <div>{{ .Inner | markdownify }}</div>
+</div>

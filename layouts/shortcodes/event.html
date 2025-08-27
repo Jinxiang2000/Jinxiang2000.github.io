@@ -1,0 +1,42 @@
+{{ $title := .Get "title" }}
+{{ $company := .Get "company" }}
+{{ $location := .Get "location" }}
+{{ $from := .Get "from" }}
+{{ $to := .Get "to" }}
+{{ $collapsible := eq (.Get "collapsible") "true" }}
+{{ $uniqueId := printf "event-%s-%d" (.Get "title" | urlize) now.UnixNano }}
+
+<div class="timeline-event" id="{{ $uniqueId }}">
+  <div class="timeline-event-card">
+    <div class="timeline-event-header">
+      <div>
+        <h3 class="timeline-event-title">{{ $title }}</h3>
+        {{ if $company }}
+        <div class="timeline-event-company">{{ $company }}</div>
+        {{ end }}
+        {{ if $location }}
+        <div class="timeline-event-location">📍 {{ $location }}</div>
+        {{ end }}
+      </div>
+      <div class="timeline-event-date">
+        {{ if $to }}
+          {{ $from }} - {{ $to }}
+        {{ else }}
+          {{ $from }} - Present
+        {{ end }}
+      </div>
+    </div>
+    
+    <div class="timeline-event-content">
+      {{ .Inner | markdownify }}
+    </div>
+    
+    {{ if $collapsible }}
+    <button class="timeline-toggle" onclick="toggleEvent('{{ $uniqueId }}')">
+      <span class="toggle-text">Show less</span>
+    </button>
+    {{ end }}
+  </div>
+</div>
+
+

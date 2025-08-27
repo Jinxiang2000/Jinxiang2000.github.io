@@ -1,0 +1,226 @@
+{{ $uniqueId := printf "timeline-%d" now.Unix }}
+
+<div class="timeline-container" id="{{ $uniqueId }}">
+  <div class="timeline">
+    {{ .Inner }}
+  </div>
+</div>
+
+<style>
+.timeline-container {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.timeline {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 20px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(to bottom, #3b82f6, #1e40af);
+}
+
+.timeline-event {
+  position: relative;
+  margin-bottom: 2rem;
+  padding-left: 60px;
+}
+
+.timeline-event::before {
+  content: '';
+  position: absolute;
+  left: 11px;
+  top: 8px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #3b82f6;
+  border: 3px solid #ffffff;
+  box-shadow: 0 0 0 3px #3b82f6;
+  z-index: 10;
+}
+
+.timeline-event-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.timeline-event-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+.timeline-event-card::before {
+  content: '';
+  position: absolute;
+  left: -10px;
+  top: 20px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 8px 10px 8px 0;
+  border-color: transparent #ffffff transparent transparent;
+}
+
+.timeline-event-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.timeline-event-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #1f2937;
+  margin: 0;
+  flex: 1;
+}
+
+.timeline-event-company {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #3b4ef6;
+  margin: 0.25rem 0 0 0;
+}
+
+.timeline-event-date {
+  font-size: 0.875rem;
+  color: #6b7280;
+  background: #f3f4f6;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  white-space: nowrap;
+}
+
+.timeline-event-location {
+  font-size: 0.875rem;
+  color: #6b7280;
+  margin: 0.25rem 0;
+}
+
+.timeline-event-content {
+  color: #374151;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+.timeline-event-content h1,
+.timeline-event-content h2,
+.timeline-event-content h3,
+.timeline-event-content h4,
+.timeline-event-content h5,
+.timeline-event-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0.75rem 0 0.5rem 0;
+  color: #1f2937;
+}
+
+.timeline-event-content strong {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #1f2937;
+}
+
+.timeline-event-content p {
+  margin: 0.5rem 0;
+  font-size: 0.95rem;
+}
+
+.timeline-event-content ul {
+  margin: 0.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.timeline-event-content li {
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.timeline-event.collapsed .timeline-event-content {
+  display: none;
+}
+
+.timeline-toggle {
+  background: none;
+  border: none;
+  color: #3b82f6;
+  font-size: 0.875rem;
+  cursor: pointer;
+  padding: 0.25rem 0;
+  margin-top: 0.5rem;
+}
+
+.timeline-toggle:hover {
+  text-decoration: underline;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .timeline::before {
+    left: 15px;
+  }
+  
+  .timeline-event {
+    padding-left: 45px;
+  }
+  
+  .timeline-event::before {
+    left: 6px;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .timeline-event-card::before {
+    left: -8px;
+    border-width: 6px 8px 6px 0;
+  }
+  
+  .timeline-event-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .timeline-event-title {
+    font-size: 1.1rem;
+  }
+}
+</style>
+
+<script>
+// 全局的timeline折叠功能
+function toggleEvent(eventId) {
+  const event = document.getElementById(eventId);
+  if (!event) return;
+  
+  const content = event.querySelector('.timeline-event-content');
+  const button = event.querySelector('.timeline-toggle .toggle-text');
+  
+  if (event.classList.contains('collapsed')) {
+    // 当前是折叠状态，点击展开
+    event.classList.remove('collapsed');
+    if (button) button.textContent = 'Show less';
+  } else {
+    // 当前是展开状态，点击折叠
+    event.classList.add('collapsed');
+    if (button) button.textContent = 'Show more';
+  }
+}
+</script>

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resume on Jinxiang Ma</title>
-    <link>http://localhost:1313/resume/</link>
+    <link>http://localhost:52017/resume/</link>
     <description>Recent content in Resume on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/resume/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/resume/feed.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Six Sigma on Jinxiang Ma</title>
+    <link>http://localhost:52017/categories/six-sigma/</link>
+    <description>Recent content in Six Sigma on Jinxiang Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/categories/six-sigma/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Six Sigma Green Belt - Part 1</title>
+      <link>http://localhost:52017/learning/six-sigma-1/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/learning/six-sigma-1/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Basic of Six Sigma 
+    &lt;div id=&#34;basic-of-six-sigma&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#basic-of-six-sigma&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Defining a Procee Y = f(x) 
+    &lt;div id=&#34;defining-a-procee-y--fx&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#defining-a-procee-y--fx&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;A process transforms inputs into outputs. Consider that inputs to Amazon are products such as books, the process receives and stores them, the goods are then delivered to the customer and represent the output of the process
+$$
+Y = f(x)
+$$
+Y is the process output, x is the process inputs. There may be  several imputs, in that case, x can be a vector.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Six Sigma Green Belt - Part 2</title>
+      <link>http://localhost:52017/learning/six-sigma-2/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/learning/six-sigma-2/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;DMAIC Framework 
+    &lt;div id=&#34;dmaic-framework&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#dmaic-framework&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Define 
+    &lt;div id=&#34;define&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#define&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;“Define”: What is the real problem we are facing? How can it be described?&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Measure 
+    &lt;div id=&#34;measure&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#measure&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Measure is to better understand the problem and collect data.  Sometimes the data is readily available, but at other times it may have to be collected through observation, accessed by retrieving data stored in a database, or by distributing questionnaires and surveys&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

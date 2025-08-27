@@ -2,759 +2,939 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jinxiang Ma</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:52017/tags/</link>
     <description>Recent content in Tags on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/tags/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>“HuggingFace”</title>
-      <link>http://localhost:1313/tags/huggingface/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <title>Lean</title>
+      <link>http://localhost:52017/tags/lean/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/huggingface/</guid>
+      <guid>http://localhost:52017/tags/lean/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>“Named Entity Recognition”</title>
-      <link>http://localhost:1313/tags/named-entity-recognition/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/named-entity-recognition/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>“NLP”</title>
-      <link>http://localhost:1313/tags/nlp/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/nlp/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>“PyTorch”</title>
-      <link>http://localhost:1313/tags/pytorch/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/pytorch/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>“Transformers”</title>
-      <link>http://localhost:1313/tags/transformers/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/transformers/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bayesian Modeling</title>
-      <link>http://localhost:1313/tags/bayesian-modeling/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/bayesian-modeling/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>BFGS</title>
-      <link>http://localhost:1313/tags/bfgs/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/bfgs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>CodeSearchNet</title>
-      <link>http://localhost:1313/tags/codesearchnet/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/codesearchnet/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Course Project</title>
-      <link>http://localhost:1313/tags/course-project/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/course-project/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DEA</title>
-      <link>http://localhost:1313/tags/dea/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/dea/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Energy Planning</title>
-      <link>http://localhost:1313/tags/energy-planning/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/energy-planning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>FAISS</title>
-      <link>http://localhost:1313/tags/faiss/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/faiss/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>FastAPI</title>
-      <link>http://localhost:1313/tags/fastapi/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/fastapi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Gaussian Processes</title>
-      <link>http://localhost:1313/tags/gaussian-processes/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/gaussian-processes/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GPT</title>
-      <link>http://localhost:1313/tags/gpt/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/gpt/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Information Retrieval</title>
-      <link>http://localhost:1313/tags/information-retrieval/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/information-retrieval/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Iran</title>
-      <link>http://localhost:1313/tags/iran/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/iran/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>L-BFGS</title>
-      <link>http://localhost:1313/tags/l-bfgs/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/l-bfgs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>MATLAB</title>
-      <link>http://localhost:1313/tags/matlab/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/matlab/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>NNGP</title>
-      <link>http://localhost:1313/tags/nngp/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/nngp/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Numerical Methods</title>
-      <link>http://localhost:1313/tags/numerical-methods/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/numerical-methods/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Optimization</title>
-      <link>http://localhost:1313/tags/optimization/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/optimization/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Quasi-Newton</title>
-      <link>http://localhost:1313/tags/quasi-newton/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/quasi-newton/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>http://localhost:1313/tags/r/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/r/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>RAG</title>
-      <link>http://localhost:1313/tags/rag/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/rag/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Renewable Energy</title>
-      <link>http://localhost:1313/tags/renewable-energy/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/renewable-energy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Semantic Search</title>
-      <link>http://localhost:1313/tags/semantic-search/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/semantic-search/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Spatial Statistics</title>
-      <link>http://localhost:1313/tags/spatial-statistics/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/spatial-statistics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Streamlit</title>
-      <link>http://localhost:1313/tags/streamlit/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/streamlit/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sustainability</title>
-      <link>http://localhost:1313/tags/sustainability/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/sustainability/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vecchia Approximation</title>
-      <link>http://localhost:1313/tags/vecchia-approximation/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/vecchia-approximation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Wind Power</title>
-      <link>http://localhost:1313/tags/wind-power/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/wind-power/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bootstrap</title>
-      <link>http://localhost:1313/tags/bootstrap/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/bootstrap/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>CRUD</title>
-      <link>http://localhost:1313/tags/crud/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/crud/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Django</title>
-      <link>http://localhost:1313/tags/django/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/django/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ETL</title>
-      <link>http://localhost:1313/tags/etl/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/etl/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pentaho Kettle</title>
-      <link>http://localhost:1313/tags/pentaho-kettle/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/pentaho-kettle/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PostgreSQL</title>
-      <link>http://localhost:1313/tags/postgresql/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/postgresql/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Project Management</title>
-      <link>http://localhost:1313/tags/project-management/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/project-management/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Web Development</title>
-      <link>http://localhost:1313/tags/web-development/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/web-development/</guid>
+      <title>Six Sigma</title>
+      <link>http://localhost:52017/tags/six-sigma/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/six-sigma/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>http://localhost:1313/tags/data-science/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <link>http://localhost:52017/tags/data-science/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-science/</guid>
+      <guid>http://localhost:52017/tags/data-science/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/tags/introduction/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <title>Hypothesis-Testing</title>
+      <link>http://localhost:52017/tags/hypothesis-testing/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/introduction/</guid>
+      <guid>http://localhost:52017/tags/hypothesis-testing/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Portfolio</title>
-      <link>http://localhost:1313/tags/portfolio/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <title>P-Values</title>
+      <link>http://localhost:52017/tags/p-values/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/portfolio/</guid>
+      <guid>http://localhost:52017/tags/p-values/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Career</title>
-      <link>http://localhost:1313/tags/career/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <title>Statistics</title>
+      <link>http://localhost:52017/tags/statistics/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/career/</guid>
+      <guid>http://localhost:52017/tags/statistics/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <title>“HuggingFace”</title>
+      <link>http://localhost:52017/tags/huggingface/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <guid>http://localhost:52017/tags/huggingface/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Mathematics</title>
-      <link>http://localhost:1313/tags/mathematics/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <title>“Named Entity Recognition”</title>
+      <link>http://localhost:52017/tags/named-entity-recognition/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mathematics/</guid>
+      <guid>http://localhost:52017/tags/named-entity-recognition/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Azure</title>
-      <link>http://localhost:1313/tags/azure/</link>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <title>“NLP”</title>
+      <link>http://localhost:52017/tags/nlp/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/azure/</guid>
+      <guid>http://localhost:52017/tags/nlp/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Cloud Computing</title>
-      <link>http://localhost:1313/tags/cloud-computing/</link>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <title>“PyTorch”</title>
+      <link>http://localhost:52017/tags/pytorch/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/cloud-computing/</guid>
+      <guid>http://localhost:52017/tags/pytorch/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Speech Recognition</title>
-      <link>http://localhost:1313/tags/speech-recognition/</link>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <title>“Transformers”</title>
+      <link>http://localhost:52017/tags/transformers/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/speech-recognition/</guid>
+      <guid>http://localhost:52017/tags/transformers/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/tags/technology/</link>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <title>Bayesian Modeling</title>
+      <link>http://localhost:52017/tags/bayesian-modeling/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/technology/</guid>
+      <guid>http://localhost:52017/tags/bayesian-modeling/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Data Visualization</title>
-      <link>http://localhost:1313/tags/data-visualization/</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <title>BFGS</title>
+      <link>http://localhost:52017/tags/bfgs/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-visualization/</guid>
+      <guid>http://localhost:52017/tags/bfgs/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Education Research</title>
-      <link>http://localhost:1313/tags/education-research/</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <title>CodeSearchNet</title>
+      <link>http://localhost:52017/tags/codesearchnet/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/education-research/</guid>
+      <guid>http://localhost:52017/tags/codesearchnet/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Regression Analysis</title>
-      <link>http://localhost:1313/tags/regression-analysis/</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <title>Course Project</title>
+      <link>http://localhost:52017/tags/course-project/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/regression-analysis/</guid>
+      <guid>http://localhost:52017/tags/course-project/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Statistical Analysis</title>
-      <link>http://localhost:1313/tags/statistical-analysis/</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <title>DEA</title>
+      <link>http://localhost:52017/tags/dea/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/statistical-analysis/</guid>
+      <guid>http://localhost:52017/tags/dea/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Census Data</title>
-      <link>http://localhost:1313/tags/census-data/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <title>Energy Planning</title>
+      <link>http://localhost:52017/tags/energy-planning/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/census-data/</guid>
+      <guid>http://localhost:52017/tags/energy-planning/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Clustering</title>
-      <link>http://localhost:1313/tags/clustering/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <title>FAISS</title>
+      <link>http://localhost:52017/tags/faiss/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/clustering/</guid>
+      <guid>http://localhost:52017/tags/faiss/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>PCA</title>
-      <link>http://localhost:1313/tags/pca/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <title>FastAPI</title>
+      <link>http://localhost:52017/tags/fastapi/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/pca/</guid>
+      <guid>http://localhost:52017/tags/fastapi/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Predictive Modeling</title>
-      <link>http://localhost:1313/tags/predictive-modeling/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <title>Gaussian Processes</title>
+      <link>http://localhost:52017/tags/gaussian-processes/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/predictive-modeling/</guid>
+      <guid>http://localhost:52017/tags/gaussian-processes/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Cognitive Services</title>
-      <link>http://localhost:1313/tags/cognitive-services/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <title>GPT</title>
+      <link>http://localhost:52017/tags/gpt/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/cognitive-services/</guid>
+      <guid>http://localhost:52017/tags/gpt/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Information Retrieval</title>
+      <link>http://localhost:52017/tags/information-retrieval/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>http://localhost:52017/tags/information-retrieval/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>REST API</title>
-      <link>http://localhost:1313/tags/rest-api/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Iran</title>
+      <link>http://localhost:52017/tags/iran/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/rest-api/</guid>
+      <guid>http://localhost:52017/tags/iran/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Airport Analytics</title>
-      <link>http://localhost:1313/tags/airport-analytics/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <title>L-BFGS</title>
+      <link>http://localhost:52017/tags/l-bfgs/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/airport-analytics/</guid>
+      <guid>http://localhost:52017/tags/l-bfgs/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Forecasting</title>
-      <link>http://localhost:1313/tags/forecasting/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <title>MATLAB</title>
+      <link>http://localhost:52017/tags/matlab/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/forecasting/</guid>
+      <guid>http://localhost:52017/tags/matlab/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>SARIMA</title>
-      <link>http://localhost:1313/tags/sarima/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <title>NNGP</title>
+      <link>http://localhost:52017/tags/nngp/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/sarima/</guid>
+      <guid>http://localhost:52017/tags/nngp/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Statistical Modeling</title>
-      <link>http://localhost:1313/tags/statistical-modeling/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Numerical Methods</title>
+      <link>http://localhost:52017/tags/numerical-methods/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/statistical-modeling/</guid>
+      <guid>http://localhost:52017/tags/numerical-methods/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Time Series Analysis</title>
-      <link>http://localhost:1313/tags/time-series-analysis/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Optimization</title>
+      <link>http://localhost:52017/tags/optimization/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/time-series-analysis/</guid>
+      <guid>http://localhost:52017/tags/optimization/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Business Strategy</title>
-      <link>http://localhost:1313/tags/business-strategy/</link>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <title>Quasi-Newton</title>
+      <link>http://localhost:52017/tags/quasi-newton/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/business-strategy/</guid>
+      <guid>http://localhost:52017/tags/quasi-newton/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Linear Programming</title>
-      <link>http://localhost:1313/tags/linear-programming/</link>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <title>R</title>
+      <link>http://localhost:52017/tags/r/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/linear-programming/</guid>
+      <guid>http://localhost:52017/tags/r/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RAG</title>
+      <link>http://localhost:52017/tags/rag/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/rag/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Renewable Energy</title>
+      <link>http://localhost:52017/tags/renewable-energy/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/renewable-energy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Semantic Search</title>
+      <link>http://localhost:52017/tags/semantic-search/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/semantic-search/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spatial Statistics</title>
+      <link>http://localhost:52017/tags/spatial-statistics/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/spatial-statistics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Streamlit</title>
+      <link>http://localhost:52017/tags/streamlit/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/streamlit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>http://localhost:52017/tags/sustainability/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/sustainability/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vecchia Approximation</title>
+      <link>http://localhost:52017/tags/vecchia-approximation/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/vecchia-approximation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wind Power</title>
+      <link>http://localhost:52017/tags/wind-power/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/wind-power/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>http://localhost:52017/tags/bootstrap/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/bootstrap/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CRUD</title>
+      <link>http://localhost:52017/tags/crud/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/crud/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>http://localhost:52017/tags/django/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/django/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ETL</title>
+      <link>http://localhost:52017/tags/etl/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/etl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pentaho Kettle</title>
+      <link>http://localhost:52017/tags/pentaho-kettle/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/pentaho-kettle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>http://localhost:52017/tags/postgresql/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/postgresql/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project Management</title>
+      <link>http://localhost:52017/tags/project-management/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/project-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:52017/tags/web-development/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/web-development/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>http://localhost:52017/tags/healthcare/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/healthcare/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mathematical Modeling</title>
-      <link>http://localhost:1313/tags/mathematical-modeling/</link>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <link>http://localhost:52017/tags/mathematical-modeling/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mathematical-modeling/</guid>
+      <guid>http://localhost:52017/tags/mathematical-modeling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Michigan Medicine</title>
+      <link>http://localhost:52017/tags/michigan-medicine/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/michigan-medicine/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Operations Research</title>
-      <link>http://localhost:1313/tags/operations-research/</link>
+      <link>http://localhost:52017/tags/operations-research/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/operations-research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Process Improvement</title>
+      <link>http://localhost:52017/tags/process-improvement/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/process-improvement/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SARIMA</title>
+      <link>http://localhost:52017/tags/sarima/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/sarima/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scheduling</title>
+      <link>http://localhost:52017/tags/scheduling/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/scheduling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Time Series Forecasting</title>
+      <link>http://localhost:52017/tags/time-series-forecasting/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/time-series-forecasting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Attention</title>
+      <link>http://localhost:52017/tags/attention/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/attention/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Deep-Learning</title>
+      <link>http://localhost:52017/tags/deep-learning/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/deep-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:52017/tags/introduction/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/introduction/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:52017/tags/machine-learning/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nlp</title>
+      <link>http://localhost:52017/tags/nlp/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/nlp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:52017/tags/portfolio/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/portfolio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transformers</title>
+      <link>http://localhost:52017/tags/transformers/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/transformers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>http://localhost:52017/tags/algorithms/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/algorithms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mathematics</title>
+      <link>http://localhost:52017/tags/mathematics/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/mathematics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>http://localhost:52017/tags/ai/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Career Development</title>
+      <link>http://localhost:52017/tags/career-development/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/career-development/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:52017/tags/learning/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>New Grad</title>
+      <link>http://localhost:52017/tags/new-grad/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/new-grad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>http://localhost:52017/tags/azure/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/azure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>http://localhost:52017/tags/cloud-computing/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/cloud-computing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Speech Recognition</title>
+      <link>http://localhost:52017/tags/speech-recognition/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/speech-recognition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:52017/tags/technology/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/technology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>http://localhost:52017/tags/data-visualization/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/data-visualization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Education Research</title>
+      <link>http://localhost:52017/tags/education-research/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/education-research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Regression Analysis</title>
+      <link>http://localhost:52017/tags/regression-analysis/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/regression-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Statistical Analysis</title>
+      <link>http://localhost:52017/tags/statistical-analysis/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/statistical-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Census Data</title>
+      <link>http://localhost:52017/tags/census-data/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/census-data/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>http://localhost:52017/tags/clustering/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/clustering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PCA</title>
+      <link>http://localhost:52017/tags/pca/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/pca/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Predictive Modeling</title>
+      <link>http://localhost:52017/tags/predictive-modeling/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/predictive-modeling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cognitive Services</title>
+      <link>http://localhost:52017/tags/cognitive-services/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/cognitive-services/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:52017/tags/python/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>REST API</title>
+      <link>http://localhost:52017/tags/rest-api/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/rest-api/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Airport Analytics</title>
+      <link>http://localhost:52017/tags/airport-analytics/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/airport-analytics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Forecasting</title>
+      <link>http://localhost:52017/tags/forecasting/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/forecasting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Statistical Modeling</title>
+      <link>http://localhost:52017/tags/statistical-modeling/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/statistical-modeling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Time Series Analysis</title>
+      <link>http://localhost:52017/tags/time-series-analysis/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/time-series-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Business Strategy</title>
+      <link>http://localhost:52017/tags/business-strategy/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/operations-research/</guid>
+      <guid>http://localhost:52017/tags/business-strategy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linear Programming</title>
+      <link>http://localhost:52017/tags/linear-programming/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52017/tags/linear-programming/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>BeautifulSoup</title>
-      <link>http://localhost:1313/tags/beautifulsoup/</link>
+      <link>http://localhost:52017/tags/beautifulsoup/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/beautifulsoup/</guid>
+      <guid>http://localhost:52017/tags/beautifulsoup/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Business Analytics</title>
-      <link>http://localhost:1313/tags/business-analytics/</link>
+      <link>http://localhost:52017/tags/business-analytics/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/business-analytics/</guid>
+      <guid>http://localhost:52017/tags/business-analytics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data Mining</title>
-      <link>http://localhost:1313/tags/data-mining/</link>
+      <link>http://localhost:52017/tags/data-mining/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-mining/</guid>
+      <guid>http://localhost:52017/tags/data-mining/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data Pipeline</title>
-      <link>http://localhost:1313/tags/data-pipeline/</link>
+      <link>http://localhost:52017/tags/data-pipeline/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-pipeline/</guid>
+      <guid>http://localhost:52017/tags/data-pipeline/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web Scraping</title>
-      <link>http://localhost:1313/tags/web-scraping/</link>
+      <link>http://localhost:52017/tags/web-scraping/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/web-scraping/</guid>
+      <guid>http://localhost:52017/tags/web-scraping/</guid>
       <description></description>
       
     </item>

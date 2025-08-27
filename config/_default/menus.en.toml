@@ -28,12 +28,22 @@
 [[main]]
   name = "Resume"
   pageRef = "resume"
+  weight = 35
+
+[[main]]
+  name = "Learning"
+  pageRef = "learning"
   weight = 40
+
+[[main]]
+  name = "Gallery"
+  pageRef = "gallery"
+  weight = 50
 
 [[main]]
   name = "Blog"
   pageRef = "posts"
-  weight = 50
+  weight = 60
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

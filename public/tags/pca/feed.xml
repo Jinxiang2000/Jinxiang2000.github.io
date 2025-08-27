@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PCA on Jinxiang Ma</title>
-    <link>http://localhost:1313/tags/pca/</link>
+    <link>http://localhost:52017/tags/pca/</link>
     <description>Recent content in PCA on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pca/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/tags/pca/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Poverty Prediction using Census Data and Machine Learning</title>
-      <link>http://localhost:1313/projects/poverty-prediction/</link>
+      <link>http://localhost:52017/projects/poverty-prediction/</link>
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/poverty-prediction/</guid>
+      <guid>http://localhost:52017/projects/poverty-prediction/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Developed sophisticated machine learning models to predict poverty levels across U.S. counties using demographic and socioeconomic census data, achieving 87% prediction accuracy through advanced statistical techniques.
 &lt;/div&gt;
