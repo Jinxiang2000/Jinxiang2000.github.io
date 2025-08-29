@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>REST API on Jinxiang Ma</title>
-    <link>http://localhost:52017/tags/rest-api/</link>
+    <link>http://localhost:50242/tags/rest-api/</link>
     <description>Recent content in REST API on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/tags/rest-api/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50242/tags/rest-api/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Azure Speech-to-Text Transcription Service</title>
-      <link>http://localhost:52017/projects/azure-speech-transcription/</link>
+      <link>http://localhost:50242/projects/azure-speech-transcription/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/projects/azure-speech-transcription/</guid>
+      <guid>http://localhost:50242/projects/azure-speech-transcription/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Developed a sophisticated speech transcription system using Azure Speech to Text SDK with language detection and speaker diarization capabilities.
 &lt;/div&gt;

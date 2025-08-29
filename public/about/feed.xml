@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on Jinxiang Ma</title>
-    <link>http://localhost:52017/about/</link>
+    <link>http://localhost:50242/about/</link>
     <description>Recent content in About Me on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/about/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50242/about/feed.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistical Foundations on Jinxiang Ma</title>
-    <link>http://localhost:52017/series/statistical-foundations/</link>
+    <link>http://localhost:50242/series/statistical-foundations/</link>
     <description>Recent content in Statistical Foundations on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/series/statistical-foundations/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50242/series/statistical-foundations/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Statistical Testing &amp; Hypothesis Testing</title>
-      <link>http://localhost:52017/learning/statistical-testing/</link>
+      <link>http://localhost:50242/learning/statistical-testing/</link>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/learning/statistical-testing/</guid>
+      <guid>http://localhost:50242/learning/statistical-testing/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

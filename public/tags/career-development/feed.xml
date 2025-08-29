@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Career Development on Jinxiang Ma</title>
-    <link>http://localhost:52017/tags/career-development/</link>
+    <link>http://localhost:50242/tags/career-development/</link>
     <description>Recent content in Career Development on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/tags/career-development/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50242/tags/career-development/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Still Learning: A New Grad&#39;s Journey from Math to Data Science</title>
-      <link>http://localhost:52017/posts/data-science-journey/</link>
+      <link>http://localhost:50242/posts/data-science-journey/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/posts/data-science-journey/</guid>
+      <guid>http://localhost:50242/posts/data-science-journey/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Just documenting my learning journey so far—from math major to data science projects. Still figuring out a lot, but thought I&amp;rsquo;d share what I&amp;rsquo;ve learned and what I&amp;rsquo;m hungry to learn next.
 &lt;/div&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on Jinxiang Ma</title>
-    <link>http://localhost:52017/categories/data-science/</link>
+    <link>http://localhost:50242/categories/data-science/</link>
     <description>Recent content in Data Science on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/categories/data-science/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50242/categories/data-science/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Statistical Testing &amp; Hypothesis Testing</title>
-      <link>http://localhost:52017/learning/statistical-testing/</link>
+      <link>http://localhost:50242/learning/statistical-testing/</link>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/learning/statistical-testing/</guid>
+      <guid>http://localhost:50242/learning/statistical-testing/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -55,10 +55,10 @@
     
     <item>
       <title>Optimizing Hospital Pharmacy Operations: A Data-Driven Approach to Sterile Compounding</title>
-      <link>http://localhost:52017/posts/michigan-medicine/</link>
+      <link>http://localhost:50242/posts/michigan-medicine/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/posts/michigan-medicine/</guid>
+      <guid>http://localhost:50242/posts/michigan-medicine/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;The Challenge: When Precision Meets Pressure in Hospital Pharmacies 
     &lt;div id=&#34;the-challenge-when-precision-meets-pressure-in-hospital-pharmacies&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -74,10 +74,10 @@
     
     <item>
       <title>Understanding Critical Factors of Minority Students in Higher Education</title>
-      <link>http://localhost:52017/projects/minority-students-analysis/</link>
+      <link>http://localhost:50242/projects/minority-students-analysis/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/projects/minority-students-analysis/</guid>
+      <guid>http://localhost:50242/projects/minority-students-analysis/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   A comprehensive statistical analysis exploring the critical factors that impact minority student success in higher education, using advanced regression modeling and data visualization techniques.
 &lt;/div&gt;
@@ -98,10 +98,10 @@
     
     <item>
       <title>Poverty Prediction using Census Data and Machine Learning</title>
-      <link>http://localhost:52017/projects/poverty-prediction/</link>
+      <link>http://localhost:50242/projects/poverty-prediction/</link>
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/projects/poverty-prediction/</guid>
+      <guid>http://localhost:50242/projects/poverty-prediction/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Developed sophisticated machine learning models to predict poverty levels across U.S. counties using demographic and socioeconomic census data, achieving 87% prediction accuracy through advanced statistical techniques.
 &lt;/div&gt;
@@ -122,10 +122,10 @@
     
     <item>
       <title>Time Series Forecasting on San Francisco Airport Data</title>
-      <link>http://localhost:52017/projects/time-series-forecasting/</link>
+      <link>http://localhost:50242/projects/time-series-forecasting/</link>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/projects/time-series-forecasting/</guid>
+      <guid>http://localhost:50242/projects/time-series-forecasting/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

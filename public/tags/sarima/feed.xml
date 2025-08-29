@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SARIMA on Jinxiang Ma</title>
-    <link>http://localhost:52017/tags/sarima/</link>
+    <link>http://localhost:50242/tags/sarima/</link>
     <description>Recent content in SARIMA on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/tags/sarima/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50242/tags/sarima/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Optimizing Hospital Pharmacy Operations: A Data-Driven Approach to Sterile Compounding</title>
-      <link>http://localhost:52017/posts/michigan-medicine/</link>
+      <link>http://localhost:50242/posts/michigan-medicine/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/posts/michigan-medicine/</guid>
+      <guid>http://localhost:50242/posts/michigan-medicine/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;The Challenge: When Precision Meets Pressure in Hospital Pharmacies 
     &lt;div id=&#34;the-challenge-when-precision-meets-pressure-in-hospital-pharmacies&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -30,10 +30,10 @@
     
     <item>
       <title>Time Series Forecasting on San Francisco Airport Data</title>
-      <link>http://localhost:52017/projects/time-series-forecasting/</link>
+      <link>http://localhost:50242/projects/time-series-forecasting/</link>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/projects/time-series-forecasting/</guid>
+      <guid>http://localhost:50242/projects/time-series-forecasting/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Six Sigma on Jinxiang Ma</title>
-    <link>http://localhost:52017/tags/six-sigma/</link>
+    <link>http://localhost:50242/tags/six-sigma/</link>
     <description>Recent content in Six Sigma on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52017/tags/six-sigma/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50242/tags/six-sigma/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Six Sigma Green Belt - Part 1</title>
-      <link>http://localhost:52017/learning/six-sigma-1/</link>
+      <link>http://localhost:50242/learning/six-sigma-1/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/learning/six-sigma-1/</guid>
+      <guid>http://localhost:50242/learning/six-sigma-1/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Basic of Six Sigma 
     &lt;div id=&#34;basic-of-six-sigma&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -44,10 +44,10 @@ Y is the process output, x is the process inputs. There may be  several imputs, 
     
     <item>
       <title>Six Sigma Green Belt - Part 2</title>
-      <link>http://localhost:52017/learning/six-sigma-2/</link>
+      <link>http://localhost:50242/learning/six-sigma-2/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52017/learning/six-sigma-2/</guid>
+      <guid>http://localhost:50242/learning/six-sigma-2/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;DMAIC Framework 
     &lt;div id=&#34;dmaic-framework&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
