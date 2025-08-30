@@ -156,3 +156,56 @@ Besides process map, another useful map use in analyzing process flow is a **spa
 ![image-20250828170209300](/img/learning/image-20250828170209300.png)
 
 Once this is done, the team can analyze the diagrams to eliminate unnecessary movement through the system.
+
+
+
+### X-Y Matrix 
+
+The X-Y matrix is allso call the correlation matrix, is instructor approach to ranking the importance of input variables. Input an outputs are identified, and then the impact of each of these input on output is determined. It is quite versatile and can be used to analyze entire or part of the process. It can be used to analyze the impact of inputs on outputs for a new products, or you can be used to determine the impact of inputs on output for website that has failed to perform as expected.
+
+![image-20250828193224606](/img/learning/image-20250828193224606.png)
+
+Example of input data:
+
+* Product qualiity
+* Product mix
+* Price
+* Promotion
+* Keyword
+* Website navigation
+* Search engine optimization
+* Video usage on homepage
+* Website content
+
+Example of output:
+
+* Length of time customer spent on site
+
+* Purchases made
+
+* Whether or not customer sign up for emails for promotional announcement
+
+* Whether or not, they likely to return to the side at the late time
+
+  ![image-20250828193659339](/img/learning/image-20250828193659339.png)
+
+How to interpret the results?
+
+The result of the X-Y analysis suggest that most important variables to address is *product mix* a weighted score of 202 dominoes the other weighted scores and it's much higher than the next closest input variable, content. The least important variables is *navigation* with a score of 76 the payoff from adjusting this variable when improving the side would probably not very high.
+
+### Kanban
+
+Kanban is a lean approach to scheduling. It matches a schedule to actual demand, thereby improving process efficiency.  It supports a Just in Time Approach  to scheduling daily operations. Work does not begin on a product or service until a demand event occurs. When this event occurs, the process’s inputs are made available just as needed or “JIT”
+
+> Advantages
+>
+> * Short cycle time between orders and delivery
+> * Better control of in process activity
+> * Reduction in waste
+> * Elimination of activity that do not add values to the outcome
+> * Rapid feedback loop that improve team performance and motivation
+> * Increase customer satisfaction
+
+### Two Bin Kanban
+
+The Two Bin Kanban system is a example of how variations of Kanban system can be used when surprise parts even finish product need to be managed and controlled.
