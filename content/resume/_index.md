@@ -41,7 +41,6 @@ heroStyle: "background"
 {{% /event %}}
 
 {{< /timeline >}}
----
 
 ## Professional Experience
 

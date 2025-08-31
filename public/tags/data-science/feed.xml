@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on Jinxiang Ma</title>
-    <link>http://localhost:50242/tags/data-science/</link>
+    <link>http://localhost:1314/tags/data-science/</link>
     <description>Recent content in Data Science on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50242/tags/data-science/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/data-science/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Statistical Testing &amp; Hypothesis Testing</title>
-      <link>http://localhost:50242/learning/statistical-testing/</link>
+      <link>http://localhost:1314/learning/statistical-testing/</link>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50242/learning/statistical-testing/</guid>
+      <guid>http://localhost:1314/learning/statistical-testing/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -55,10 +55,10 @@
     
     <item>
       <title>Welcome to My Portfolio</title>
-      <link>http://localhost:50242/posts/welcome-to-my-portfolio/</link>
+      <link>http://localhost:1314/posts/welcome-to-my-portfolio/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50242/posts/welcome-to-my-portfolio/</guid>
+      <guid>http://localhost:1314/posts/welcome-to-my-portfolio/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Welcome to my digital portfolio!
 &lt;/div&gt;
@@ -100,10 +100,10 @@
     
     <item>
       <title>Still Learning: A New Grad&#39;s Journey from Math to Data Science</title>
-      <link>http://localhost:50242/posts/data-science-journey/</link>
+      <link>http://localhost:1314/posts/data-science-journey/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50242/posts/data-science-journey/</guid>
+      <guid>http://localhost:1314/posts/data-science-journey/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Just documenting my learning journey so far—from math major to data science projects. Still figuring out a lot, but thought I&amp;rsquo;d share what I&amp;rsquo;ve learned and what I&amp;rsquo;m hungry to learn next.
 &lt;/div&gt;

@@ -1,0 +1,22 @@
+/* 隐藏卡片中的缩略图 */
+.thumbnail_card {
+    display: none !important;
+}
+
+/* 隐藏其他可能的图片元素 */
+.article-link img,
+.article-link figure,
+.card img,
+.card figure {
+    display: none !important;
+}
+
+/* 调整卡片布局，移除图片后的空间优化 */
+.article-link .min-h-full {
+    min-height: auto !important;
+}
+
+/* 确保卡片内容区域正常显示 */
+.article-link .px-6 {
+    padding-top: 1.5rem !important;
+}

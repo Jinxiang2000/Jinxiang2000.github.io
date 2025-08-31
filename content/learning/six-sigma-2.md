@@ -209,3 +209,26 @@ Kanban is a lean approach to scheduling. It matches a schedule to actual demand,
 ### Two Bin Kanban
 
 The Two Bin Kanban system is a example of how variations of Kanban system can be used when surprise parts even finish product need to be managed and controlled.
+
+![image-20250830142946882](/img/learning/image-20250830142946882.png)
+
+User select inventory items from Bin 1, the front bin. When Bin 1 is depleted, a replenishment  order is sent to the supplier, and Bin 2 becomes the new Bin 1. When the replenishment order arrives, it becomes the new Bin 2. 
+
+It is in this way that the Kanban system directly links demand with processing.
+
+### Takt time(Rate of Completion)
+
+In lean, **Takt time** is the rate at which fitness products need to be completed to meet the customer demand suppose a company has a Takt time of five minutes, in that case, that means every five minutes a complete product assembly on machine must be delivered from operational process because customer is purchasing a finished product every five minutes.
+
+Mathematically, Takt time is:
+$$
+\text{Takt time} = \frac{\text{Available time for production}}{\text{required units of production}}
+$$
+**Available time for production** of processing increase the total number of hours that you actually be devoted to processing. It must be net of breaks, lunch, or meeting. The **required units of production** are measure of demand.
+
+> {Question} An assembly facility  operate for 2000 minutes per day customers demand is 500 units per day. The takt time is? 
+>
+> 2000/500 = 4 mins
+>
+> Answer: The facility must process a unit of output every four minutes.
+

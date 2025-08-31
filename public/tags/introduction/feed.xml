@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on Jinxiang Ma</title>
-    <link>http://localhost:50242/tags/introduction/</link>
+    <link>http://localhost:1314/tags/introduction/</link>
     <description>Recent content in Introduction on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50242/tags/introduction/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/introduction/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome to My Portfolio</title>
-      <link>http://localhost:50242/posts/welcome-to-my-portfolio/</link>
+      <link>http://localhost:1314/posts/welcome-to-my-portfolio/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50242/posts/welcome-to-my-portfolio/</guid>
+      <guid>http://localhost:1314/posts/welcome-to-my-portfolio/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Welcome to my digital portfolio!
 &lt;/div&gt;

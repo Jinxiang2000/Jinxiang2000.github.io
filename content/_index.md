@@ -18,11 +18,14 @@ h1.mb-2.text-4xl.font-extrabold {
 
 {{< typeit 
   tag=h1
-  speed=50
+  speed=0
   breakLines=false
   loop=false
 >}}
-Hi, I'm Jinxiang Ma 👋
+Hello！ 
+Welcome！
+I'm Jinxiang Ma
+
 {{< /typeit >}}
 
 <!-- Social Media Icons -->
@@ -44,16 +47,17 @@ Hi, I'm Jinxiang Ma 👋
   </a>
 </div>
 
-{{< lead >}}
-**Versatile Data Science Professional** and **Industrial Engineer** with hands-on experience across analytics, mathematical modeling, and data engineering. Skilled in building scalable pipelines and translating complex models into actionable insights for decision-making.
-{{< /lead >}}
+Multidisciplinary {{< typeit tag="span" speed=80 breakLines=false loop=true >}}
+Data Analyst
+Data Scientist
+Industrial Engineer
+Business Analyst
+GIS Analyst
+{{< /typeit >}} 
+with hands-on experience across analytics, machine learning, operations research, and engineering. 
 
-## Contact & Connect
 
-📞 **Phone**: +1 (510) 345-8049  
-📍 **Location**: Sunnyvale, CA  
-📧 **Email**: majinxiang2000@gmail.com  
-🔗 **LinkedIn**: [jinxiang-ma-806a621a8](https://www.linkedin.com/in/jinxiang-ma-806a621a8/)
+
 
 
 

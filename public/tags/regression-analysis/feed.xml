@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regression Analysis on Jinxiang Ma</title>
-    <link>http://localhost:50242/tags/regression-analysis/</link>
+    <link>http://localhost:1314/tags/regression-analysis/</link>
     <description>Recent content in Regression Analysis on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50242/tags/regression-analysis/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/regression-analysis/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Understanding Critical Factors of Minority Students in Higher Education</title>
-      <link>http://localhost:50242/projects/minority-students-analysis/</link>
+      <link>http://localhost:1314/projects/minority-students-analysis/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50242/projects/minority-students-analysis/</guid>
+      <guid>http://localhost:1314/projects/minority-students-analysis/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   A comprehensive statistical analysis exploring the critical factors that impact minority student success in higher education, using advanced regression modeling and data visualization techniques.
 &lt;/div&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pentaho Kettle on Jinxiang Ma</title>
-    <link>http://localhost:50242/tags/pentaho-kettle/</link>
+    <link>http://localhost:1314/tags/pentaho-kettle/</link>
     <description>Recent content in Pentaho Kettle on Jinxiang Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50242/tags/pentaho-kettle/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/pentaho-kettle/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Building a Project Management Tool: Django CRUD with PostgreSQL and ETL Integration</title>
-      <link>http://localhost:50242/projects/django-project-management/</link>
+      <link>http://localhost:1314/projects/django-project-management/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50242/projects/django-project-management/</guid>
+      <guid>http://localhost:1314/projects/django-project-management/</guid>
       <description>&lt;p&gt;Managing infrastructure projects efficiently requires robust data tracking and seamless information flow between teams. In this post, I&amp;rsquo;ll walk you through how I built a comprehensive project management system using Django, PostgreSQL, and Pentaho Kettle to address these challenges in a real-world scenario.&lt;/p&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;The Challenge 

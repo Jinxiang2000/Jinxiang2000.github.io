@@ -3,119 +3,586 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:50242/learning/six-sigma-1/</loc>
+    <loc>http://localhost:1314/categories/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/learning/six-sigma-2/</loc>
+    <loc>http://localhost:1314/learning/econometrics---1/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/learning/statistical-testing/</loc>
+    <loc>http://localhost:1314/tags/lean/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/categories/learning/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/ols/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/categories/six-sigma/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/six-sigma/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/learning/six-sigma-1/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/learning/six-sigma-2/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/learning/six-sigma-3/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/categories/statistic/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/time-series/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/categories/data-science/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/about/</loc>
+    <loc>http://localhost:1314/tags/data-science/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/hypothesis-testing/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/p-values/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/series/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/series/statistical-foundations/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/learning/statistical-testing/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/statistics/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/categories/deep-learning/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/spatial_analysis/</loc>
+    <loc>http://localhost:1314/tags/huggingface/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/quasi-netwon/</loc>
+    <loc>http://localhost:1314/tags/named-entity-recognition/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/ner_transformer/</loc>
+    <loc>http://localhost:1314/tags/nlp/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/dea_project/</loc>
+    <loc>http://localhost:1314/tags/pytorch/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/rag_code_chatbot/</loc>
+    <loc>http://localhost:1314/tags/transformers/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/django-project-management/</loc>
+    <loc>http://localhost:1314/about/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/bayesian-modeling/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/spatial_analysis/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/bfgs/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/codesearchnet/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/course-project/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/dea/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/energy-planning/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/faiss/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/fastapi/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/gaussian-processes/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/gpt/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/quasi-netwon/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/information-retrieval/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/iran/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/l-bfgs/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/categories/mathematical-modeling/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/matlab/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/ner_transformer/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/nngp/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/numerical-methods/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/optimization/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/dea_project/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/quasi-newton/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/r/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/rag/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/rag_code_chatbot/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/renewable-energy/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/semantic-search/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/spatial-statistics/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/categories/statistical-modeling/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/streamlit/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/sustainability/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/vecchia-approximation/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/wind-power/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/bootstrap/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/posts/michigan-medicine/</loc>
+    <loc>http://localhost:1314/projects/django-project-management/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/crud/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/django/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/etl/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/pentaho-kettle/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/postgresql/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/project-management/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/web-development/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/healthcare/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/posts/</loc>
+    <loc>http://localhost:1314/categories/healthcare-analytics/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/</loc>
+    <loc>http://localhost:1314/tags/mathematical-modeling/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/michigan-medicine/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/categories/operations-research/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/operations-research/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/posts/michigan-medicine/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/posts/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/process-improvement/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/sarima/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/scheduling/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/time-series-forecasting/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/gallery/</loc>
+    <loc>http://localhost:1314/tags/attention/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/learning/</loc>
+    <loc>http://localhost:1314/categories/blog/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/</loc>
+    <loc>http://localhost:1314/series/deep-learning-fundamentals/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/skills/</loc>
+    <loc>http://localhost:1314/tags/deep-learning/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/resume/</loc>
+    <loc>http://localhost:1314/gallery/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/learning/transformer-architecture/</loc>
+    <loc>http://localhost:1314/tags/introduction/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/posts/welcome-to-my-portfolio/</loc>
+    <loc>http://localhost:1314/learning/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/learning/gradient-descent-optimization/</loc>
+    <loc>http://localhost:1314/tags/machine-learning/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/categories/machine-learning/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/skills/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/nlp/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/portfolio/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/resume/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/learning/transformer-architecture/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/transformers/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/posts/welcome-to-my-portfolio/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/algorithms/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/posts/data-science-journey/</loc>
+    <loc>http://localhost:1314/learning/gradient-descent-optimization/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/series/mathematical-foundations/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/mathematics/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/ai/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/posts/azure-cloud-computing/</loc>
+    <loc>http://localhost:1314/tags/career-development/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/learning/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/new-grad/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/posts/data-science-journey/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/azure/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/minority-students-analysis/</loc>
+    <loc>http://localhost:1314/tags/cloud-computing/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/posts/azure-cloud-computing/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/speech-recognition/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/technology/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/data-visualization/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/poverty-prediction/</loc>
+    <loc>http://localhost:1314/tags/education-research/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/regression-analysis/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/statistical-analysis/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/minority-students-analysis/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/census-data/</loc>
     <lastmod>2022-11-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/azure-speech-transcription/</loc>
+    <loc>http://localhost:1314/tags/clustering/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/pca/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/poverty-prediction/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/predictive-modeling/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/azure-speech-transcription/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/time-series-forecasting/</loc>
+    <loc>http://localhost:1314/categories/cloud-computing/</loc>
+    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/cognitive-services/</loc>
+    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/python/</loc>
+    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/rest-api/</loc>
+    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/airport-analytics/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/market-expansion/</loc>
+    <loc>http://localhost:1314/tags/forecasting/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/statistical-modeling/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/time-series-analysis/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/time-series-forecasting/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/business-strategy/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:50242/projects/dianping-scraping/</loc>
+    <loc>http://localhost:1314/tags/linear-programming/</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/market-expansion/</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/beautifulsoup/</loc>
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/business-analytics/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/categories/data-engineering/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/data-mining/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/data-pipeline/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/projects/dianping-scraping/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/tags/web-scraping/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1314/authors/</loc>
   </url>
 </urlset>

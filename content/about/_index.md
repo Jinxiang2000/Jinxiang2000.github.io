@@ -45,7 +45,7 @@ Across all my experiences, I’ve found that I’m most fulfilled when building 
 ## Thank You
 #
 
-Thank you for visiting my portfolio site. My professional interests span **data science**, **cloud-scale data engineering**, **reliability analytics**, and **revenue management** — all tied together by a passion for using data to improve how decisions are made and systems are run. I hope you enjoy browsing through my work, and please feel free to reach out if you’d like to connect, collaborate, or just chat about data and systems.
+Thank you for visiting my portfolio site. I hope you enjoy browsing through my work, and please feel free to reach out if you’d like to connect, collaborate, or just chat about data and systems.
 
 Best regards,  
 **Jinxiang Ma**

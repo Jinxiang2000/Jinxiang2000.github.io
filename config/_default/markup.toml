@@ -2,24 +2,19 @@
 # These settings are required for the theme to function.
 
 [goldmark]
-[goldmark.renderer]
-  unsafe = true
-[goldmark.extensions]
-  typographer = true
+  [goldmark.renderer]
+    unsafe = true
+  [goldmark.extensions]
+    typographer = true
+    [goldmark.extensions.passthrough]
+      enable = true
+      [goldmark.extensions.passthrough.delimiters]
+        block = [['$$', '$$'], ['\\[', '\\]']]
+        inline = [['$', '$'], ['\\(', '\\)']]
 
 [highlight]
   noClasses = false
 
 [tableOfContents]
   startLevel = 2
-  endLevel = 4
-
-# Math rendering support
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      [markup.goldmark.extensions.passthrough]
-        enable = true
-        [markup.goldmark.extensions.passthrough.delimiters]
-          block = [['$$', '$$'], ['\\[', '\\]']]
-          inline = [['$', '$'], ['\\(', '\\)']] 
+  endLevel = 4 

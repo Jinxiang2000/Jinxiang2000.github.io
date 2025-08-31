@@ -1,0 +1,30 @@
+{{/* Global Math Support - Load KaTeX for all pages with math: true */}}
+{{ if site.Params.math }}
+  {{ $katexCSS := resources.Get "lib/katex/katex.min.css" }}
+  {{ $katexCSS := $katexCSS | resources.Fingerprint (site.Params.fingerprintAlgorithm | default "sha512") }}
+  <link
+    type="text/css"
+    rel="stylesheet"
+    href="{{ $katexCSS.RelPermalink }}"
+    integrity="{{ $katexCSS.Data.Integrity }}">
+  
+  {{ $katexJS := resources.Get "lib/katex/katex.min.js" }}
+  {{ $katexJS := $katexJS | resources.Fingerprint (site.Params.fingerprintAlgorithm | default "sha512") }}
+  <script defer src="{{ $katexJS.RelPermalink }}" integrity="{{ $katexJS.Data.Integrity }}"></script>
+  
+  {{ $katexRenderJS := resources.Get "lib/katex/auto-render.min.js" }}
+  {{ $katexRenderJS := $katexRenderJS | resources.Fingerprint (site.Params.fingerprintAlgorithm | default "sha512") }}
+  <script
+    defer
+    src="{{ $katexRenderJS.RelPermalink }}"
+    integrity="{{ $katexRenderJS.Data.Integrity }}"
+    onload="renderMathInElement(document.body, {
+      delimiters: [
+        {left: '$$', right: '$$', display: true},
+        {left: '$', right: '$', display: false},
+        {left: '\\\\(', right: '\\\\)', display: false},
+        {left: '\\\\[', right: '\\\\]', display: true}
+      ],
+      throwOnError: false
+    });"></script>
+{{ end }}

@@ -6,12 +6,7 @@ description: "Econometric Study Note"
 tags: ["OLS","Time Series"]
 categories: ["learning", "statistic"]
 math: true
-
 ---
-
-{{< katex >}}
-
-
 
 ## OLS
 
