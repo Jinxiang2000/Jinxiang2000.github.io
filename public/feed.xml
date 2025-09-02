@@ -10,6 +10,17 @@
     <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Building LazyMind</title>
+      <link>http://localhost:1314/posts/lazymind/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/posts/lazymind/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always been terrible at planning. You know that feeling when you have a vague goal like &amp;ldquo;I should learn cooking&amp;rdquo; or &amp;ldquo;maybe I&amp;rsquo;ll start working out,&amp;rdquo; but then you just&amp;hellip; don&amp;rsquo;t? I built LazyMind because I was frustrated with every planning app expecting me to already know what I wanted to do and how to break it down.&lt;/p&gt;
+&lt;p&gt;The idea was simple: what if I could just tell an AI what I wanted to achieve, and it would figure out the actual steps? Not another todo app with fancy colors, but something that actually understands what you&amp;rsquo;re trying to accomplish and helps you get there.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Econometric Modeling - Part 1</title>
       <link>http://localhost:1314/learning/econometrics---1/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
