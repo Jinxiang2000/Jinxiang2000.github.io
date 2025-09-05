@@ -156,9 +156,7 @@ The plan is to use operations research algorithms (think constraint satisfaction
 
 I think we're at an interesting point with AI where it's powerful enough to be genuinely useful but still needs thoughtful implementation to work well. LazyMind isn't trying to replace human planning entirely - it's trying to be the best possible starting point.
 
-The goal was never to build the perfect planning app. It was to build something that helps people take the first step toward their goals. And based on the feedback I've gotten, it seems to be working.
-
-If you're thinking about building AI products, my advice is to start with a real problem you have personally. Don't build AI for the sake of AI - build it because it solves something that's actually annoying or difficult. And be prepared to spend a lot of time on prompt engineering. It's more important than you think.
+The goal was never to build the perfect planning app. It was to build something that helps people take the first step toward their goals.
 
 ---
 
