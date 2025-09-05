@@ -48,3 +48,30 @@ Pareto chart help establish where limited resources should be directed. Correspo
 This is another tool often used to drill down and expose the root cause of a problem. It is call a Fishbone Diagram, sometimes referred to as an Ishikawa diagram, It is also referred to as a Cause and Effect Diagram because it connects the cause of a problem to the effect of the problem. 
 
 ![image-20250904165841726](/img/learning/image-20250904165841726.png)
+
+### Process Variation
+
+As we have learned, the mean output level is just one of two important dimension of process performance. The second is variation. In fact, it is so important that many organizations place a higher priority on managing variation than process mean. 
+
+There are two source of variation
+
+1. **Common Cause Variation.** It represents the normal or expected random variation in a process. Non only is it inherent in any operational process, but it is predictable. Example would be the variance in call center repsonse time or the difference in the yields of a chip manufacturing process. In general, there is little that can be done to reduce these variance short of redesigning the entire process.
+2. **Special Cause Variation.** It is the kind of variation that is of most concern in six sigma it is a variation that is not inherent in the process and as a result, it is not predictable for example, the quality of running shoes deteriorates; the sole separate from the shoes body. Upon drilling down, it is found that the roots cause is a defect in some machines that attach the sole to the shoe’s body. Problem such as this is not predictable and can be contribute to a problems with the process. Moreover, this is precisely the kind of problem that an effective monitoring and control system is designed to uncover before too many defective shoes are produced.(**There is somthing wrong with the manufacturing process itself**)
+
+### Multi-Vari
+
+#### Source of variation
+
+When it is determined that excessive variation in process output could be attribute to special cause variation the first step is to identify the suspect of variables. A good place to start is either the SIPOC or Fishbone diagrams. But when using this tools, it can still be difficult to distinguish between those variables that contribute to the problem and those that are less important so we need more information.
+
+One very simple approach to narrowing the numbers of variables is called Multi-Vari analysis, for which a graph is created that displays the possible source of variation affecting the process output. It is a rather informal process and one that visual. No attempt is made to use statistic as the means of measuring extent of the variation. Nonetheless, It is often considered to be a very useful analytical tool.
+
+Let's consider the following example: suppose you are about analyze call length at 3 call centers located at atlanta, London and Philippines. Callers expect a quick and effective response to their problem and recent complains has suggested that call variation could be out of control.
+
+We need to narrow down the variables using fishbone diagrams, five sources that could affect call length have been identified. They include the type of request the date of the week, location of the call center ,and the hours of the day is the call is received, and the customers category, corporate or individual.
+
+While file variables are suspected of inferencing call length it is still unclear which one's contribute more and which contribute less to the overall variability.
+
+According to the Pareto Principle, we should expect one or tow variable to account for the major portion of the total variance in the system. The Pareto Principle states that 80 percent of a problem can be traced to 20 percent of its possible causes. 
+
+To narrow the problem down, it will be necessary to measure it by collecting data for each of these varibale by call center location and then constructing a Multi-Vari Chart. 
