@@ -31,13 +31,17 @@ Here is a table for Taudler Toys. The second table is displaying the data sorted
 
 ![image-20250904164632863](/img/learning/image-20250904164632863.png)
 
-Next, the cumulative sum of the number of occurences for each category is calculated. This number is enter into a new column which is “cumulative sum”. ![image-20250904164832727](/img/learning/image-20250904164832727.png)
+Next, the cumulative sum of the number of occurences for each category is calculated. This number is enter into a new column which is “cumulative sum”. 
+
+![image-20250904164832727](/img/learning/image-20250904164832727.png)
 
 Next is to convert hte cumulative sum into a cumulative percent column. The cumulative percent for Damaged Packaging is 0.79. This means that the wrong item sent together with damaged packaging represents 79 percent of all returns. 
 
 ![image-20250904165001423](/img/learning/image-20250904165001423.png)
 
-Next is the draw the histogram, and adding a cumulative percent as a line to the histogram. A Paroto Chart is completed! ![image-20250904165119885](/img/learning/image-20250904165119885.png)
+Next is the draw the histogram, and adding a cumulative percent as a line to the histogram. A Paroto Chart is completed! 
+
+![image-20250904165119885](/img/learning/image-20250904165119885.png)
 
 The line plot tells us that by focusing on the “wrong item sent”, we will have addressed 48 percent of the product return problem. The 48 percent figure is read from the right hand vertical axis. The line plot alos show us that by focusing on the wrong item send and damaged packaging, we will ahve address 79% of our problem.
 
@@ -75,3 +79,26 @@ While file variables are suspected of inferencing call length it is still unclea
 According to the Pareto Principle, we should expect one or tow variable to account for the major portion of the total variance in the system. The Pareto Principle states that 80 percent of a problem can be traced to 20 percent of its possible causes. 
 
 To narrow the problem down, it will be necessary to measure it by collecting data for each of these varibale by call center location and then constructing a Multi-Vari Chart. 
+
+#### Multi-Vari Chart
+
+The data for call duration across all three locations have been collected. A multi-vary chart comparing the duration for each of these locations is shown to the right. 
+
+Almost all Multi-Vari charts take this basic form, yet they do differ somewhat depending on the problem and the person designing the chart 
+
+In our example, the length of the vertical lines above each location represents the range from the longest to shortest call duration over a period of one week. 
+
+![image-20250905151749488](/img/learning/image-20250905151749488.png)
+
+The horizontal bar in the center of the vertical line represents the average of these calls. In Atlanta, for example, call durations ranged from a low of 7.5 to a high of 22. The average call was 13.5 minutes long. The data within the vertical bar represents what is commonly referred to as position or within variation.
+
+![image-20250905152049585](/img/learning/image-20250905152049585.png)
+
+From this chart, we can see that variation is greatest for London and least for the Philippines. It can also be seen that average call durations are not equal and are the longest in London. To narrow that problem, we can conclude that call duration, as well as variation between calls, is less of a problem in the Philippines and more of a problem in London.
+
+![image-20250905152319200](/img/learning/image-20250905152319200.png)
+
+In the example just completed, we have only considered the consequence of location on Call Duration. To the right is a chart that compares Hour of Day and Calls Duration. Calls from 8 to 9Am have been sampled across all locations and added together. This has also been done for calls from 12 to 1 and from 5 to 6. 
+
+![image-20250905225512712](/img/learning/image-20250905225512712.png)
+
