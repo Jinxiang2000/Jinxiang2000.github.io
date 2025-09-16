@@ -44,7 +44,7 @@ The objective function in XGBoost consists of two parts: a loss function and a r
 $$
 obj(\theta) = \sum_i^n l(y_i, \hat y_i) +\sum_{k = 1}^K \Omega(f_k)
 $$
- 
+
 
 Instead of fitting the model all at once we optimize the model iteratively. We start with intial prediction $\hat y_i^{(0)} = 0$ and at each step add a new tree to improve the model. The updated prediction after adding the $t$ th tree can be expressed as :
 $$
@@ -119,17 +119,17 @@ XGBoost also has certain aspects that require caution or consideration:
 
 ## Implementation
 
-|                            |                                                              |
-| :------------------------: | :----------------------------------------------------------: |
-|       Learning Rate        | An important variable that modifies how much each tree contributes to the final prediction. While more trees are needed smaller values frequently result in more accurate models. |
-|         Max Depth          | Controls the depth of every tree, avoiding overfitting and being essential to controlling the model's complexity. |
-|           Gamma            | Based on the decrease in loss it determines when a node in the tree will split. The algorithm becomes more conservative with a higher gamma value hence avoiding splits that don't decreases the loss. It helps in managing tree complexity |
-|    ***\*Subsample\****     | Manages the percentage of data that is sampled at random to grow each tree hence lowering variance and enhancing generalization. Setting it too low could result in underfitting |
-| ***\*Colsample Bytree\**** | Establishes the percentage of features that will be sampled at random for growing each tree |
-|   ***\*n_estimators\****   |           Specifies the number of boosting rounds            |
-|  Alpha(L1) and Lambda(L2)  | Control the strength of L1 and L2 regularization respectively. A higher value results in stronger regularization |
-| ***\*min_child_weight\**** | Influences the tree structure by controlling the minimum amount of data required to create a new node |
-| ***\*scale_pos_weight\**** | Useful in imbalanced class scenarios to control the balance of positive and negative weights |
+|                          |                                                              |
+| :----------------------: | :----------------------------------------------------------: |
+|      Learning Rate       | An important variable that modifies how much each tree contributes to the final prediction. While more trees are needed smaller values frequently result in more accurate models. |
+|        Max Depth         | Controls the depth of every tree, avoiding overfitting and being essential to controlling the model's complexity. |
+|          Gamma           | Based on the decrease in loss it determines when a node in the tree will split. The algorithm becomes more conservative with a higher gamma value hence avoiding splits that don't decreases the loss. It helps in managing tree complexity |
+|        Subsample         | Manages the percentage of data that is sampled at random to grow each tree hence lowering variance and enhancing generalization. Setting it too low could result in underfitting |
+|     Colsample Bytree     | Establishes the percentage of features that will be sampled at random for growing each tree |
+|       n_estimators       |           Specifies the number of boosting rounds            |
+| Alpha(L1) and Lambda(L2) | Control the strength of L1 and L2 regularization respectively. A higher value results in stronger regularization |
+|     min_child_weight     | Influences the tree structure by controlling the minimum amount of data required to create a new node |
+|     scale_pos_weight     | Useful in imbalanced class scenarios to control the balance of positive and negative weights |
 
 ### Data Preparation and Train-Test Split
 

@@ -102,3 +102,50 @@ In the example just completed, we have only considered the consequence of locati
 
 ![image-20250905225512712](/img/learning/image-20250905225512712.png)
 
+##### Call Duration By Hour
+
+From the following chart, we can see that calls received between 8 to 9 range from 5 to 19 minutes. The average is 9.6 minutes. The range for call received between 12 to 1 is 6  to 27, with an average of 16.2 minutes, while the range for calls between 5 to 6 is from 12 to 21 minutes, with an average of 17.2 minutes.
+
+By connecting the averages, we can conclude that the average increase throughout the day. Furthermore , the variance is largest at noon.
+
+![image-20250909150604803](/img/learning/image-20250909150604803.png)
+
+##### Combining Variables
+
+Often Multi-Vari Charts combine variables. Consider the relationship between location, call duration, and time of day. 
+
+The chart to the right suggests how all three can be displayed. The vertical lines, representing the Hour of the Day, have been grouped by call center location. 
+
+
+
+For example, the first vertical bar in the matrix displays calls duration at Atlanta. The range is between 7 and 18.5 minutes, with a mean of 9.7 minutes.
+
+![image-20250912164149210](/img/learning/image-20250912164149210.png)
+
+
+
+The red dots within each group represents the averages for each location. The red lines represent  the changes in these averages from one location to another. The average for Atlanta, for example, is 16.5 minutes.
+
+![image-20250912164329800](/img/learning/image-20250912164329800.png)
+
+##### Application in Health Care
+
+A critical variable in health care is the Length of Stay, LOS, in a hospital. 
+
+The data for orthopedia surgery has been collected across three hospitals in the same health care system and for three quarters. The Multi-Vari data plot is shown to the right. 
+
+The green dots show the average length of stay for each hospital across all three quarters. A line through these dots represents the average LOS across the three facilities. 
+
+![image-20250912164800707](/img/learning/image-20250912164800707.png)
+
+We first notice that the average length of stay is not the same across all hospitals, with South Shore reporting the longest and Foxland reporting the shortest average stays.
+
+Also, notice that Roger’s experiencing an increase in length of stay while Foxland’s is decreasing. This is referred to as a Temporal Variation. As its name suggests, it represents the extent of variation over time. When turn to within variation, the greatest variation is found at Roger’s site, with the least at Foxland.
+
+#### Summary
+
+There is a lot to be learned by simply plotting the output of a process on a Multi-Vari chart
+
+When this is done, the mean of the process becomes clear, as does precess variablility. Further, we learn this without using statistics. 
+
+In general, these charts are used to identify the major sources of variation in a process. Later in this course, you will have a chance to use statistical tools, including hypothesis test and regression analysis, to futher explore the significance and cause of variation.
