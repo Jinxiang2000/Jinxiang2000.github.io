@@ -1,5 +1,5 @@
 ---
-title: "Scheduling - Part 1"
+title: "Scheduling 1 - Deterministric Model: Preliminaries"
 date: 2025-08-27
 draft: false
 description: "Deterministric Model: Preliminaries"
@@ -39,6 +39,22 @@ The case of a single machine is the simplest of all possible machine environment
 There are $m$ identical machines in parallel. Job $j$ requires a single operation and may be processed on any one of the $m$ machines or on any one that belongs to a given subset. If job $j$ cannot be processed on just any machine, but only on any one belonging to a specific subset $M_j$, then the entry $M_j$ appears in the $\beta$ field.
 
 
+
+##### Machines in parallel with different speeds($Q_m$) 
+
+Threre are $m$ machines in parallel with different speeds. The speed of machine $i$ is denoted by $v_i$. The time $p_{ij}$ that job $j$ spends on machine $i$ is equal to $\frac{p_j}{v_i}$ (Assuming job $j$ received all its processing from machine $i$). This environment is referred to as uniform machines. If all machines have the same speed, i.e., $v_i = 1$ for all $i$ and $p_{ij}= p_{j}$, then the environment is identical to the previous one.
+
+
+
+##### Unrelated machine in parallel($R_m$)
+
+This environment is a further generalization of the previous one. There are $m$ different machines in parallel. Machine $i$ can process job $j$ at speed $v_{ij}$. The time $p_{ij}$ that job $j$ spends on machine $i$ is equal to $\frac{p_j}{v_i}$ (Assuming job $j$ received all its processing from machine $i$).. If the speed of the machines are independent of the jobs, i.e. $v_{ij} = v_{i}$, $\forall i, j$, then the environment is identical to the previous one($Q_m$)
+
+
+
+##### Flow Shop ($F_m$)
+
+There are $m$ machine in series. Each job has to me processed on each one of the m machines. All jobs have to follow the same route, i.e., they have to be processed first on machine 1, then on machine 2, and so on. After completion on one machine a job joins the queue at the next machine, Usually, all queues are assumed to operate under the `First in Fist Out (FIFO)` discipline: a job cannot “pass” another while waiting in a queue. If the FIFO discipline is in effect the flow shop is referred  to as a `permutation` flow shop and the $\beta$ field should include  `prmu`
 
 
 
