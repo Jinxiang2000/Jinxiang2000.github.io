@@ -56,17 +56,25 @@ This environment is a further generalization of the previous one. There are $m$ 
 
 There are $m$ machine in series. Each job has to me processed on each one of the m machines. All jobs have to follow the same route, i.e., they have to be processed first on machine 1, then on machine 2, and so on. After completion on one machine a job joins the queue at the next machine, Usually, all queues are assumed to operate under the `First in Fist Out (FIFO)` discipline: a job cannot “pass” another while waiting in a queue. If the FIFO discipline is in effect the flow shop is referred  to as a `permutation` flow shop and the $\beta$ field should include  `prmu`
 
+##### Flexible flow shop ($FFc$)
+
+A flexible flow shop is a generalization of the flow shop and the parallel machine environments. Instead of m machines in series there are c stages in series with at each stage a number of identical machines in parallel. Each job has to be processedfirst at stage 1, then at stage 2, and so on. A stage functions as a bank of parallel machines; at each stage job j requires processing on only one machine and any machine can do. The queues between the various stages may or may not operate according to the First Come First Served (FCFS) discipline. (Flexible flow shops have in the literature at times also been referred to as hybrid flow shops and as multi-processor flow shops.)
+
+##### Job Shop  (Jm)
+
+In a job shop with m machines each job has its own predetermined route to follow. A distinction is made between job shops in which each job visits each machine at most once and job shops in which a job may visit each machine more than once. In the latter case the $\beta$-field contains the entry `rcrc` for recirculation.
 
 
 
+##### Flexible job shop (FJc)
+
+A flexible job shop is a generalization of the job shop and the parallel machine environments. Instead of m machines in series there are c work centers with at each work center a number of identical machines in parallel. Each job has its own route to follow through the shop; job j requires processing at each work center on only one machine and any machine can do. If a job on its route through the shop may visit a work center more than once,then the $\beta$-field contains the entry `rcrc` for recirculation
 
 
 
+##### Open Shop (Om)
 
-
-
-
-
+There are $m$ machines. Each job has to be processed again on each one of the $m$ machines. However, some of these processing times may be zero. There are no restrictions with regard to the routing of each job through the machine environment. The scheduler is allowed to determine a route for each job and diﬀerent jobs may have diﬀerent routes.
 
 
 
