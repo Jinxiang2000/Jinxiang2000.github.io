@@ -1,4 +1,5 @@
 ---
+
 title: "Scheduling 1 - Deterministric Model: Preliminaries"
 date: 2025-08-27
 draft: false
@@ -181,15 +182,118 @@ U_j = \begin{cases}
 0  \text { otherwise}
 \end{cases}
 $$
+![image-20250922160615709](/img/learning/image-20250922160615709.png)
 
 
 
 
 
+#### Makespan ($C_{max}$)
+
+Makespan is defined as $\max(C_1, \dots, C_n)$, is equivalent to the completion time of the last job to leave the system.  A minimum makespan usually implies a good utilization of the machines.
+
+
+
+#### Maximum Lateness ($L_{max}$)
+
+The maximum lateness, $L_{max}$, is defined as $max(L_1, \dots, L_n)$. It measures the worst violation of the due dates.
+
+
+
+#### Total weighted completion time ($\sum w_j C_j$)
+
+The sum of the weighted completion times of the n jobs give an indication of the totol holding or inventory cost incurred by the schedule. The sum of the completion time is also referred to as the **flow time**. The total weighted completion time is then referred to as the weighted flow time.
+
+
+
+#### Discounted total weighted completion time ($\sum w_j (1 - e^{-rC_j})$)
+
+This is a more general cost function than the previous one, where cost are discounted a rate of $r, 0 < r < 1$, per unit time. If job $j$ is not completed by time $t$ and additional cost $w_jre^{-rt}dt$ is incurred over the period $[t , t+dt]$. If job $j$ is completed at time t the total cost incurred over the period $[0,t]$ is $w_j (1- e^{-rt})$. The value of $r$ is usually close to 0, say 0.1 or 10%. 
+
+
+
+#### Total weighted tardiness ($\sum w_j T_j$) 
+
+This is also a more general cost function than the total weighted completion time. 
+
+#### Weighted number of tardy jobs ($\sum w_j U_j$)
+
+The weighted number of tardy jobs is not only a measure of academic interest, it is often an objective in practice as it is a measure that can be recorded very easily. 
 
 
 
 
 
+All the objective functions above are so-called regular performance measures. A regular performance measure is a function that is nondecreasing in $C_1, \dots, C_n$. For example, when job $j$ has a due date $d_j$, it may be subject to an earliness penalty, where the earliness of job $j$ is defined as 
+$$
+E_j = \max(d_j - C_j, 0)
+$$
 
+
+This earliness penalty is non-increasing in $C_j$. An objective such as the total earliness plus the total tardiness, i.e.,
+$$
+\sum_{j=1}^n w_j'E_j + \sum_{j = 1}^n w_j''T_j
+$$
+The weight associated with the earliness of job $j(w'_j)$ may be different from the weight associated with  the tardiness of job $j(w''_j)$.
+
+
+
+## Example
+
+#### A Flexible Flow Shop
+
+$FFc|r_j|\sum w_jT_j$ denotes a flexible flow shop. The jobs have release dates and due dates and the objective is the minimization of the total weighted tardiness. 
+
+
+
+#### A Flexible Job Shop 
+
+$FJc|r_j,s_{ijk},rcrc|\sum w_jT_j$ refers to a flexible job shop with c work centers. The jobs have different release dates and are subject to sequence dependent setup times that are machine dependent. There is recirculation, so a job may visit a work centers more than once. The objective is to minimize the total weighted tardiness. Is is clear that this problem is a more general problem than the one described in the previous example.
+
+
+
+#### A Parallel Machine Environment 
+
+$Pm |r_j, M_j|\sum w_jT_j$ denotes a system with $m$ machines in parallel. Job $j$ may be processed only on one of the machines belonging to the subset $M_j$. If job $j$ is not completed in time a penalty $w_jT_j$ is incurred.
+
+#### A Single Machine Environment 
+
+$1|r_j, prmp|\sum w_jC_j$ denotes a single machine system with job $j$ entering the system at its release data $r_j$. Preemption are allowed. The objective to be minimized is the sum of the weighted completion times. 
+
+
+
+#### Sequence Dependent Setup Times
+
+$1|s_{jk}|C_{max}$  denotes a single machine system with $n$ jobs subject to sequence dependent setup times, where the objective is to minimize the makespan. It is well-known that this problem is equivalent to the so-called Travelling Salesman Problem (TSP), where a salesman has to tour $n$ cities in such a way that the total distance traveled is minimized. 
+
+#### A Project 
+
+$P\infty| prec|C_{max}$ denotes a scheduling problem with $n$ jobs subject to precedence constraints and an unlimited number of machines (or resources) in parallel. The total time of the entire project has to be minimized. This type of problem is very common in project planning in the construction industry and has lead to techniques such as the Critical Path Method (CPM) and the Project Evaluation and Review Technique (PERT).
+
+
+
+#### A Flow Shop 
+
+$Fm|p_{ij} = p_{j}|\sum w_jC_j$ denotes a proportionate flow shop environment with $m$ machines in series; the processing times of job $j$ on all $m$ machines are identical and equal to $p_j$ (Hence the term proportionate). The objective is to find the order in which the $n$ jobs go through the system so that the sum of the weighted completion times is minimized
+
+
+
+#### A Job Shop
+
+$Jm||C_{max}$ denotes a job shop problem with $m$ machine. There is no recirculation, so a job visits each machine at most once. The objective is to minimize the makespan. This problem is considered a classic in the scheduling literature and has received an enormous amount of attention. 
+
+
+
+
+
+### Complexity Hierarchy 
+
+An algorithm for one scheduling problem can be applied to another scheduling problem as well. 
+
+$1 || \sum C_j$ is a special case of $1 || \sum w_j C_j$ and a procedure for $1 || \sum C_j$ reduces to $1 ||\sum w_jC_j$. This is usually denote by 
+
+
+$$
+1||\sum C_j, 1||\sum w_jC_j
+$$
 
