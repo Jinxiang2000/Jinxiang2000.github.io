@@ -1,6 +1,6 @@
 ---
 title: "Scheduling 2 - Deterministric Model: Single Machine Model"
-date: 2025-08-27
+date: 2024-08-27
 draft: false
 description: "Deterministric Model: Preliminaries"
 tags: ["Scheduling","Mathematical Modeling"]
@@ -39,9 +39,7 @@ Let's apply this rule to a practical example using data from a scheduling proble
   - **Processing Times ($p_j$):** 3, 5, 7, 4
 
 **Step 1: Calculate the WSPT Ratio**
-
 First, we compute the efficiency ratio ($w_j/p_j$) for each job.
-
 | Job ID | Weight ($w_j$) | Processing Time ($p_j$) | WSPT Ratio ($w_j/p_j$) |
 | ------ | -------------- | ----------------------- | ---------------------- |
 | 1      | 6              | 3                       | 2.00                   |
