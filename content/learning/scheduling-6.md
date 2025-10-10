@@ -1,5 +1,5 @@
 ---
-title: "Scheduling 5 - Fully Polynomial Time Approximation Scheme (FPTAS) for Total Tardiness Minimization
+title: "Scheduling 5 - Fully Polynomial Time Approximation Scheme (FPTAS) for Total Tardiness Minimization"
 date: 2025-08-27
 draft: false
 description: ""
