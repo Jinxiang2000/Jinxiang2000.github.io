@@ -1,5 +1,5 @@
 ---
-title: "Scheduling 4 - Single Machine Model"
+title: "Scheduling 4 - Minimizing the Number of Tardy Jobs"
 date: 2025-08-27
 draft: false
 description: "The Maximum Lateness"
@@ -15,7 +15,7 @@ math: true
 
 In modern manufacturing and service industries, the ability to meet promised delivery dates is not just a tactical goal—it is a strategic necessity. In a competitive marketplace, effective scheduling is crucial for survival, as a failure to meet customer commitments can lead to a significant loss of goodwill and market share. While some scheduling strategies focus on minimizing the average or maximum *degree* of lateness, a more common and often more critical business objective is to maximize the *percentage* of orders that are completed on time. This metric, frequently tied to service level agreements (SLAs), directly measures a firm's reliability.
 
-This guide provides a detailed analysis of a foundational problem in scheduling theory: minimizing the total number of tardy jobs on a single machine. Formally denoted as $1 || \sum U_j$, this problem seeks the optimal sequence to complete the maximum number of jobs by their due dates. We will dissect the elegant and efficient algorithm for solving this problem, walk through a practical step-by-step example of its application, and explore its real-world implications and limitations. We begin by establishing a formal model of the problem and introducing the core algorithm that guarantees an optimal solution.
+This article provides a detailed analysis of a foundational problem in scheduling theory: minimizing the total number of tardy jobs on a single machine. Formally denoted as $1 || \sum U_j$, this problem seeks the optimal sequence to complete the maximum number of jobs by their due dates. We will dissect the elegant and efficient algorithm for solving this problem, walk through a practical step-by-step example of its application, and explore its real-world implications and limitations. We begin by establishing a formal model of the problem and introducing the core algorithm that guarantees an optimal solution.
 
 1. The Core Problem: Minimizing Tardy Jobs ($1 || \sum U_j$)
 
@@ -131,15 +131,13 @@ To make this solution more tangible and reusable, this section provides a Python
 > 		Go to Step 3.*  
 >
 > *Step 3.  
-> 		If*  
+> 		If*
 > $$
-> \sum_{j \in J} p_j \le d_k,
+> \sum_{j \in J} p_j \le d_k
 > $$
-> *go to Step 4.*  
->
-> *Otherwise, let $\ell$ denote the job that satisfies*  
+> go to Step 4. *Otherwise, let $\ell$ denote the job that satisfies*  
 > $$
-> p_\ell = \max_{j \in J}(p_j).
+> p_\ell = \max_{j \in J}(p_j)
 > $$
 > *Delete job $\ell$ from $J$.  Add job $\ell$ to $J^d$.*  
 >
@@ -148,7 +146,7 @@ To make this solution more tangible and reusable, this section provides a Python
 
 This code serves as a practical template that can be adapted to solve similar scheduling problems, translating the theoretical steps into executable logic.
 
-```
+```python
 def minimize_tardy_jobs(jobs):
     """
     Finds the optimal schedule to minimize the number of tardy jobs on a single machine.

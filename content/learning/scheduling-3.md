@@ -1,5 +1,5 @@
 ---
-title: "Scheduling 3 - Single Machine Model"
+title: "Scheduling 3 - Minimizing Maximum Cost"
 date: 2025-08-27
 draft: false
 description: "The Maximum Lateness"
