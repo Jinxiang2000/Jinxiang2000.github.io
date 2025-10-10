@@ -1,6 +1,6 @@
 ---
 title: "Scheduling 2 - Single Machine Model"
-date: 2024-08-27
+date: 2025-08-27
 draft: false
 description: "Deterministic Model: Preliminaries"
 summary: "Single-machine scheduling models are fundamental building blocks of production planning, offering powerful insights for complex systems."
@@ -9,11 +9,9 @@ categories: ["learning", "operations research"]
 math: true
 ---
 
-# A Practical Guide to Job Scheduling
+
 
 Single-machine scheduling models are the fundamental building blocks of production planning. While seemingly simple, they offer powerful, foundational insights that can be extended to understand more complex, real-world systems like multi-stage production lines and entire job shops.
-
-<!--more-->
 
 Imagine a custom print shop managing multiple orders. An order for 10,000 high-margin brochures for a major corporate client is far more critical than a small, low-margin order for 200 business cards. By assigning a higher weight ($w_j$) to the corporate order, the $ \sum w_j C_j $ objective ensures it receives priority, reflecting its greater contribution to revenue and customer satisfaction. The central challenge is to find a sequence that optimally balances these priorities across all jobs. Fortunately, for the most common version of this problem, a simple and elegant rule provides the optimal solution.
 
