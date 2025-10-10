@@ -1,15 +1,14 @@
 ---
-title: "Scheduling 2 - Deterministric Model: Single Machine Model"
+title: "Scheduling 2 - Single Machine Model"
 date: 2024-08-27
 draft: false
 description: "Deterministric Model: Preliminaries"
 tags: ["Scheduling","Mathematical Modeling"]
 categories: ["learning", "operations research"]
 math: true
-
 ---
 
-# A Practical Guide to Job Scheduling: Minimizing Total Weighted Completion Time
+# Minimizing Total Weighted Completion Time
 
 Single-machine scheduling models are the fundamental building blocks of production planning. While seemingly simple, they offer powerful, foundational insights that can be extended to understand more complex, real-world systems like multi-stage production lines and entire job shops. A critical objective in this field is the minimization of **Total Weighted Completion Time**, denoted as $\sum w_j C_j$. This objective is not merely an academic exercise; it carries direct strategic importance for any business. It provides a formal way to balance two competing goals: finishing jobs quickly and prioritizing the most important ones. The "weight" ($w_j$) of a job can represent its economic value, a penalty for late delivery, or the strategic importance of a customer. The "completion time" ($C_j$) directly correlates to the time that capital is tied up in work-in-process inventory. Minimizing this objective, therefore, aligns with key business goals like satisfying high-value customers, reducing inventory holding costs, and improving cash flow by completing valuable jobs faster.
 
@@ -18,6 +17,8 @@ Imagine a custom print shop managing multiple orders. An order for 10,000 high-m
 ## The Foundational Principle: The Weighted Shortest Processing Time (WSPT) Rule
 
 The most fundamental single-machine scheduling problem, denoted `1 || ∑wjCj`, involves a set of independent jobs that are all available at time zero, waiting to be processed on a single machine. For this ubiquitous problem, a simple, intuitive, and mathematically optimal rule exists.
+
+<!--more-->
 
 **Theorem 3.1.1.** The WSPT rule is optimal for $1 \ || \ \sum w_j C_j$.
 
@@ -40,6 +41,7 @@ Let's apply this rule to a practical example using data from a scheduling proble
 
 **Step 1: Calculate the WSPT Ratio**
 First, we compute the efficiency ratio ($w_j/p_j$) for each job.
+
 | Job ID | Weight ($w_j$) | Processing Time ($p_j$) | WSPT Ratio ($w_j/p_j$) |
 | ------ | -------------- | ----------------------- | ---------------------- |
 | 1      | 6              | 3                       | 2.00                   |
