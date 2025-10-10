@@ -1,6 +1,6 @@
 ---
 title: "Scheduling 3 - Single Machine Model"
-date: 2024-08-27
+date: 2025-08-27
 draft: false
 description: "The Maximum Lateness"
 summary: ""
