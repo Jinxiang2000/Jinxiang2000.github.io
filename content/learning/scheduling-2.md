@@ -43,12 +43,12 @@ Step 1: Calculate the WSPT Ratio: First, we compute the efficiency ratio ($w_j/p
 
 
 
-| Job ID | Weight ($w_j$) | Processing Time ($p_j$) | WSPT Ratio ($w_j/p_j$) |
-| ------ | -------------- | ----------------------- | ---------------------- |
-| 1      | 6              | 3                       | 2.00                   |
-| 2      | 11             | 5                       | 2.20                   |
-| 3      | 9              | 7                       | 1.29                   |
-| 4      | 5              | 4                       | 1.25                   |
+| Job ID | Weight | Processing Time | WSPT Ratio |
+| ------ | ------ | --------------- | ---------- |
+| 1      | 6      | 3               | 2.00       |
+| 2      | 11     | 5               | 2.20       |
+| 3      | 9      | 7               | 1.29       |
+| 4      | 5      | 4               | 1.25       |
 
 
 
