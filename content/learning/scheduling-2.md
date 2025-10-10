@@ -39,8 +39,9 @@ Let's apply this rule to a practical example using data from a scheduling proble
   - **Weights ($w_j$):** 6, 11, 9, 5
   - **Processing Times ($p_j$):** 3, 5, 7, 4
 
-**Step 1: Calculate the WSPT Ratio**
-First, we compute the efficiency ratio ($w_j/p_j$) for each job.
+Step 1: Calculate the WSPT Ratio: First, we compute the efficiency ratio ($w_j/p_j$) for each job.
+
+
 
 | Job ID | Weight ($w_j$) | Processing Time ($p_j$) | WSPT Ratio ($w_j/p_j$) |
 | ------ | -------------- | ----------------------- | ---------------------- |
@@ -48,6 +49,8 @@ First, we compute the efficiency ratio ($w_j/p_j$) for each job.
 | 2      | 11             | 5                       | 2.20                   |
 | 3      | 9              | 7                       | 1.29                   |
 | 4      | 5              | 4                       | 1.25                   |
+
+
 
 **Step 2: Determine the Optimal Sequence**
 
