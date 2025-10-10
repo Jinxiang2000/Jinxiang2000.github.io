@@ -1,5 +1,5 @@
 ---
-title: "Scheduling 5 - Dynamic Programming Approach for Minimizing Total Tardiness
+title: "Scheduling 5 - Dynamic Programming Approach for Minimizing Total Tardiness"
 date: 2025-08-27
 draft: false
 description: ""
